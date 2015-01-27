@@ -1,0 +1,15 @@
+[Unit]
+Description=SSH Server
+RequiresMountsFor=/var/lib/sshd
+Requires=var.mount
+Requires=network.target
+After=var.mount
+After=network.target
+
+[Service]
+ExecStart=/usr/sbin/sshd -D
+KillMode=process
+Restart=always
+
+[Install]
+WantedBy=network.target

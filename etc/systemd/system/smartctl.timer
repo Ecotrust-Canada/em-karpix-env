@@ -1,0 +1,6 @@
+[Unit]
+Description=Log SMART health check results every 8 hours
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=8h

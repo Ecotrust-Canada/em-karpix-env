@@ -1,0 +1,5 @@
+[Unit]
+Description=Activates swap file on /var
+
+[Swap]
+What=/var/swapfile

@@ -1,0 +1,7 @@
+Protocol 2
+LoginGraceTime 1m
+PermitRootLogin yes
+AuthorizedKeysFile	.ssh/authorized_keys
+PrintMotd no
+UsePrivilegeSeparation sandbox		# Default for new installations.
+Subsystem	sftp	/usr/libexec/sftp-server

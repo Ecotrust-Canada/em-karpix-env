@@ -1,0 +1,6 @@
+video/raw : raw,yuv : Raw YUV video
+  noisy stream repeat : /usr/bin/mplayer -profile analog -xy $width -wid $window $file < /dev/null
+
+video/mp4 : mp4,mov : H264 video
+  noisy stream repeat : /usr/bin/mplayer -profile ip -xy $width -vf scale=$width:$height:0:3 -wid $window $file < /dev/null
+

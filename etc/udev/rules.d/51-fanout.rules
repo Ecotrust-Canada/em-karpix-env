@@ -1,0 +1,1 @@
+ACTION=="add", SUBSYSTEM=="module", DEVPATH=="/module/fanout", RUN+="/opt/em/bin/create-fanout-devs.sh"
