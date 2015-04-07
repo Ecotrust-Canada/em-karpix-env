@@ -1,0 +1,10 @@
+[Unit]
+Description=Copies EM data and system logs to the data disk on shutdown
+After=local-fs.target
+Requires=local-fs.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/true
+ExecStop=/opt/em/bin/copy-to-data-disk.sh
+RemainAfterExit=yes

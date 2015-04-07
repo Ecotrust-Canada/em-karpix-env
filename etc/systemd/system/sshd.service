@@ -1,0 +1,14 @@
+[Unit]
+Description=SSH Server
+Requires=network.target
+After=network.target
+Requires=var.mount
+After=var.mount
+
+[Service]
+ExecStart=/usr/sbin/sshd -D
+KillMode=process
+Restart=always
+
+[Install]
+WantedBy=network.target

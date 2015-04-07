@@ -1,0 +1,9 @@
+GRUB_CMDLINE_LINUX="i2c_algo_bit.bit_test=1 bttv.card=105 bttv.tuner=0 bttv.radio=0 bttv.pll=1 quiet"
+GRUB_TIMEOUT=1
+GRUB_DISABLE_LINUX_UUID="true"
+GRUB_DISABLE_RECOVERY="true"
+GRUB_DEFAULT="saved"
+GRUB_DISTRIBUTOR="Ecotrust Electronic Monitoring"
+GRUB_SAVEDEFAULT="true"
+GRUB_DISABLE_OS_PROBER="true"
+GRUB_TERMINAL="console"

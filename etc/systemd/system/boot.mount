@@ -1,0 +1,12 @@
+[Unit]
+Description=/boot Directory
+Before=local-fs.target
+After=systemd-udev-trigger.service
+JobTimeoutSec=3
+
+[Mount]
+What=/dev/disk/by-label/BOOT
+Where=/boot
+Type=ext4
+Options=defaults,noatime,nodiratime,discard
+TimeoutSec=3

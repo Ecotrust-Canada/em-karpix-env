@@ -1,0 +1,23 @@
+user_pref("browser.cache.disk.enable", false);
+user_pref("browser.cache.memory.enable", true);
+user_pref("browser.cache.memory.capacity", 8192);
+user_pref("browser.cache.memory.max_entry_size", 1024);
+user_pref("browser.rights.3.shown", true);
+user_pref("extensions.enabledAddons", "%7B4D498D0A-05AD-4fdb-97B5-8A0AABC1FC5B%7D:0.9.0");
+user_pref("browser.shell.checkDefaultBrowser", false);
+user_pref("toolkit.telemetry.prompted", 2);
+user_pref("toolkit.telemetry.rejected", true);
+user_pref("browser.privatebrowsing.autostart", true);
+user_pref("capability.policy.policynames", "localfilelinks");
+user_pref("capability.policy.localfilelinks.sites", "http://localhost:8081");
+user_pref("capability.policy.localfilelinks.checkloaduri.enabled", "allAccess");
+user_pref("app.update.auto", false);
+user_pref("app.update.enabled", false);
+user_pref("browser.search.update", false);
+user_pref("extensions.update.enabled", false);
+user_pref("browser.bookmarks.restore_default_bookmarks", false);
+user_pref("datareporting.policy.dataSubmissionEnabled", false);
+user_pref("datareporting.healthreport.uploadEnabled", false);
+user_pref("datareporting.healthreport.service.firstRun", false);
+user_pref("datareporting.healthreport.service.enabled", false);
+

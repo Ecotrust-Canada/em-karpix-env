@@ -1,0 +1,4 @@
+KERNEL=="sd[a-z]", ACTION=="add|change", ATTR{queue/rotational}=="0", ATTR{queue/scheduler}="noop"
+KERNEL=="sd[a-z]", ACTION=="add|change", ATTR{queue/rotational}=="1", ATTR{queue/scheduler}="cfq"
+SUBSYSTEMS=="block", ENV{ID_FS_LABEL}=="DATA_*", ACTION=="add|change", SYMLINK+="em_data", RUN+="/sbin/hdparm -W0 /dev/%k"
+SUBSYSTEMS=="block", ENV{ID_FS_LABEL}=="VAR", ACTION=="add|change", SYMLINK+="var"

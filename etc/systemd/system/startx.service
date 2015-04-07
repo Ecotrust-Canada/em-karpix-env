@@ -1,0 +1,16 @@
+[Unit]
+Description=Xorg Server
+Requires=tmp-user.service
+After=tmp-user.service
+Wants=network.target
+After=network.target
+Wants=capture-bttv.service
+After=capture-bttv.service
+Wants=web-server.service
+After=web-server.service
+
+[Service]
+User=user
+Environment=PATH=/bin:/usr/bin:/opt/xorg/bin:/opt/em/bin
+ExecStart=/opt/xorg/bin/startx
+Restart=always

@@ -1,0 +1,16 @@
+[Unit]
+Description=EM Recorder Process
+After=var.mount
+After=tmp.mount
+After=gpsd.service
+Requires=var.mount
+Requires=tmp.mount
+Requires=gpsd.service
+ConditionFileNotEmpty=/etc/em.conf
+
+[Service]
+ExecStart=/opt/em/bin/em-rec
+Nice=-7
+KillMode=process
+Restart=always
+RestartSec=1

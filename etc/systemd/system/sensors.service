@@ -1,0 +1,6 @@
+[Unit]
+Description=LM Sensors
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/sensors

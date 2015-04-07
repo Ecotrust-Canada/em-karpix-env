@@ -1,0 +1,7 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = /usr/lib/pango/1.8.0/modules
+#
+/usr/lib/pango/1.8.0/modules/pango-basic-fc.so BasicScriptEngineFc PangoEngineShape PangoRenderFc common:
+

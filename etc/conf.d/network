@@ -1,0 +1,5 @@
+interface=eth0
+address=10.10.40.87
+netmask=255.255.255.0
+broadcast=10.10.40.255
+gateway=10.10.40.254

@@ -1,0 +1,15 @@
+[Unit]
+Description=Raw Video Capture from BTTV
+After=systemd-modules-load.service
+Requires=systemd-modules-load.service
+ConditionPathExists=/dev/video0
+ConditionFileNotEmpty=/etc/em.conf
+
+[Service]
+EnvironmentFile=/etc/em.conf
+ExecStartPre=/usr/bin/v4l2-ctl --set-ctrl=chroma_agc=1,full_luma_range=1,agc_crush=0 -d /dev/video0
+ExecStart=/usr/bin/mencoder -profile bttv-0 -tv input=${cam} tv://
+Nice=-10
+KillMode=process
+Restart=always
+SuccessExitStatus=2

@@ -1,0 +1,8 @@
+[Unit]
+Description=Copies EM data and system logs to the data disk
+After=em-rec.service
+#Requires=em-rec.service
+
+[Service]
+Type=simple
+ExecStart=/opt/em/bin/copy-to-data-disk.sh

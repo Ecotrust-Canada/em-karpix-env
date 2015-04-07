@@ -1,0 +1,9 @@
+[Unit]
+Description=Homedir in /tmp for 'user'
+After=tmp.mount
+Requires=tmp.mount
+
+[Service]
+Type=oneshot
+ExecStart=/bin/rm -rf /tmp/user ; /bin/cp -Rp /home/user /tmp ; /bin/chmod -R u+w /tmp/user
+RemainAfterExit=yes
