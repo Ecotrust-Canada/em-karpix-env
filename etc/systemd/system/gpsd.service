@@ -1,8 +1,8 @@
 [Unit]
 Description=GPS Daemon
-After=serial-setup.service
-Wants=serial-setup.service
 ConditionFileNotEmpty=/etc/em.conf
+Wants=serial-setup.service
+After=serial-setup.service
 
 [Service]
 EnvironmentFile=/etc/em.conf

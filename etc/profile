@@ -2,6 +2,7 @@ source /etc/colors
 
 CFLAGS="-O2 -march=atom -fomit-frame-pointer -pipe"
 CXXFLAGS=$CFLAGS
+DISPLAY=:0
 LESS="-R"
 PATH="/bin:/usr/bin:/opt/xorg/bin:/opt/em/bin"
 PKG_CONFIG_PATH="/opt/xorg/lib/pkgconfig:/opt/xorg/share/pkgconfig"
@@ -20,7 +21,7 @@ LOAD=`cat /proc/loadavg`
 PS1="\n${RETSTR} \[${txtylw}\]\! \[${bldblk}\][\[${bldblu}\]\u@${HOSTCOLOR}\h \[${txtgrn}\]+${SHLVL}\[${bldblk}\]] \[${txtcyn}\]\t \d \[${bldblk}\](${LOAD})\n\[${bldblk}\](\[${bldwht}\]\w\[${bldblk}\])\[${txtrst}\] "
 '
 PS2='> '
-export CFLAGS CXXFLAGS LESS PATH PKG_CONFIG_PATH PS1 PS2
+export CFLAGS CXXFLAGS DISPLAY LESS PATH PKG_CONFIG_PATH PS1 PS2
 
 shopt -s checkwinsize
 

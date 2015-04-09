@@ -1,7 +1,11 @@
 [Unit]
 Description=Copies EM data and system logs to the data disk
+RequiresMountsFor=/var /mnt/data
+Requires=var.mount
+Requires=mnt-data.mount
+After=var.mount
+After=mnt-data.mount
 After=em-rec.service
-#Requires=em-rec.service
 
 [Service]
 Type=simple

@@ -1,9 +1,9 @@
 [Unit]
 Description=Raw Video Capture from BTTV
-After=systemd-modules-load.service
-Requires=systemd-modules-load.service
 ConditionPathExists=/dev/video0
 ConditionFileNotEmpty=/etc/em.conf
+Requires=systemd-modules-load.service
+After=systemd-modules-load.service
 
 [Service]
 EnvironmentFile=/etc/em.conf

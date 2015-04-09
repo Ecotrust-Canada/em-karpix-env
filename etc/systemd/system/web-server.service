@@ -1,8 +1,8 @@
 [Unit]
 Description=EM Web Server
-After=em-rec.service
-Wants=em-rec.service
 ConditionFileNotEmpty=/etc/em.conf
+Wants=em-rec.service
+After=em-rec.service
 
 [Service]
 ExecStart=/usr/bin/node /opt/em/server.js
@@ -11,4 +11,4 @@ Environment=NODE_ENV=production
 Nice=-2
 KillMode=process
 Restart=always
-SuccessExitStatus=1
+SuccessExitStatus=130 143

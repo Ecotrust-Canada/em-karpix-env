@@ -1,12 +1,15 @@
 [Unit]
 Description=Xorg Server
+RequiresMountsFor=/var
+Requires=var.mount
 Requires=tmp-user.service
-After=tmp-user.service
 Wants=network.target
-After=network.target
 Wants=capture-bttv.service
-After=capture-bttv.service
 Wants=web-server.service
+After=var.mount
+After=tmp-user.service
+After=network.target
+After=capture-bttv.service
 After=web-server.service
 
 [Service]

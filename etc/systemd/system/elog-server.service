@@ -1,7 +1,7 @@
 [Unit]
 Description=ELog Web Server
-After=em-rec.service
 Wants=em-rec.service
+After=em-rec.service
 
 [Service]
 ExecStart=/usr/bin/node /opt/elog/app.js
@@ -9,4 +9,4 @@ Environment=PATH=/bin:/sbin:/usr/bin:/usr/sbin
 Environment=NODE_ENV=production
 KillMode=process
 Restart=always
-SuccessExitStatus=1
+SuccessExitStatus=130 143

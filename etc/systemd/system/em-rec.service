@@ -1,12 +1,17 @@
 [Unit]
 Description=EM Recorder Process
-After=var.mount
-After=tmp.mount
-After=gpsd.service
-Requires=var.mount
-Requires=tmp.mount
-Requires=gpsd.service
 ConditionFileNotEmpty=/etc/em.conf
+RequiresMountsFor=/tmp /var
+Requires=var.mount
+Requires=gpsd.service
+Wants=network.target
+Wants=mnt-data.mount
+Wants=capture-bttv.service
+After=var.mount
+After=gpsd.service
+After=network.target
+After=mnt-data.mount
+After=capture-bttv.service
 
 [Service]
 ExecStart=/opt/em/bin/em-rec

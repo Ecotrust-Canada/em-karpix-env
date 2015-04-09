@@ -1,7 +1,7 @@
 [Unit]
 Description=/var Directory
-Before=local-fs.target
-After=systemd-udev-trigger.service
+#Before=local-fs.target
+#After=systemd-udev-trigger.service
 
 [Mount]
 What=/dev/disk/by-label/VAR

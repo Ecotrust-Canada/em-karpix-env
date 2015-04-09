@@ -1,7 +1,11 @@
 [Unit]
 Description=Copies EM data and system logs to the data disk on shutdown
-After=local-fs.target
-Requires=local-fs.target
+RequiresMountsFor=/mnt/data
+Requires=var.mount
+Requires=mnt-data.mount
+Before=em-rec.service
+After=var.mount
+After=mnt-data.mount
 
 [Service]
 Type=oneshot
