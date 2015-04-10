@@ -45,9 +45,9 @@ Boot the box using the power switch. Once the user interface appears, hold CTRL 
 Download an image. For example: em-2.2.12.bz
 
 In the office:
-# Format a USB drive to FAT32
-# Copy em-x.y.z file you downloaded to the USB (in this case em-2.2.5)
-# Safe eject
+* Format a USB drive to FAT32
+* Copy em-x.y.z file you downloaded to the USB (in this case em-2.2.5)
+* Safe eject
  
 Then on the boat:
 * Insert USB into box
