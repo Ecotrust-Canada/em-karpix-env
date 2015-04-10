@@ -1,9 +1,9 @@
 # em-karpix-env
 OS environment and config files for Karpix (EM linux OS)
 
-h1.  Control Box Docs 
+# Control Box Docs 
 
-h2. Karpix OS
+## Karpix OS
 
 The control box runs a custom linux known internally as "Karpix" after its creator.
 
