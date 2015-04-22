@@ -1,6 +1,8 @@
 # em-karpix-env
 OS environment and config files for Karpix (EM linux OS)
 
+![logo](https://raw.githubusercontent.com/Ecotrust-Canada/em-karpix-env/master/root/karpix-logo.png)
+
 # Control Box Docs 
 
 ## Karpix OS
