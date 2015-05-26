@@ -1,0 +1,6 @@
+[Unit]
+Description=Copies EM data and system logs to the data disk every 63 minutes
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=63m

@@ -1,0 +1,19 @@
+[Unit]
+Description=Xorg Server
+RequiresMountsFor=/var
+Requires=var.mount
+Requires=tmp-user.service
+Wants=network.target
+Wants=capture-bttv.service
+Wants=web-server.service
+After=var.mount
+After=tmp-user.service
+After=network.target
+After=capture-bttv.service
+After=web-server.service
+
+[Service]
+User=user
+Environment=PATH=/bin:/usr/bin:/opt/xorg/bin:/opt/em/bin
+ExecStart=/opt/xorg/bin/startx
+Restart=always

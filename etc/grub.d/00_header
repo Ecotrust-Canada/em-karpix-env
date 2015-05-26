@@ -1,0 +1,164 @@
+#! /bin/sh
+set -e
+
+# grub-mkconfig helper script.
+# Copyright (C) 2006,2007,2008,2009,2010  Free Software Foundation, Inc.
+#
+# GRUB is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# GRUB is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+
+transform="s,x,x,"
+
+prefix="/usr"
+exec_prefix="${prefix}"
+datarootdir="${prefix}/share"
+grub_lang=`echo $LANG | cut -d . -f 1`
+
+export TEXTDOMAIN=grub
+export TEXTDOMAINDIR="${datarootdir}/locale"
+
+. "${datarootdir}/grub/grub-mkconfig_lib"
+
+# Do this as early as possible, since other commands might depend on it.
+# (e.g. the `loadfont' command might need lvm or raid modules)
+for i in ${GRUB_PRELOAD_MODULES} ; do
+  echo "insmod $i"
+done
+
+if [ "x${GRUB_DEFAULT}" = "x" ] ; then GRUB_DEFAULT=0 ; fi
+if [ "x${GRUB_DEFAULT}" = "xsaved" ] ; then GRUB_DEFAULT='${saved_entry}' ; fi
+if [ "x${GRUB_TIMEOUT}" = "x" ] ; then GRUB_TIMEOUT=5 ; fi
+if [ "x${GRUB_GFXMODE}" = "x" ] ; then GRUB_GFXMODE=auto ; fi
+
+if [ "x${GRUB_DEFAULT_BUTTON}" = "x" ] ; then GRUB_DEFAULT_BUTTON="$GRUB_DEFAULT" ; fi
+if [ "x${GRUB_DEFAULT_BUTTON}" = "xsaved" ] ; then GRUB_DEFAULT_BUTTON='${saved_entry}' ; fi
+if [ "x${GRUB_TIMEOUT_BUTTON}" = "x" ] ; then GRUB_TIMEOUT_BUTTON="$GRUB_TIMEOUT" ; fi
+
+cat << EOF
+if [ -s \$prefix/grubenv ]; then
+  load_env
+fi
+EOF
+if [ "x$GRUB_BUTTON_CMOS_ADDRESS" != "x" ]; then
+    cat <<EOF
+if cmostest $GRUB_BUTTON_CMOS_ADDRESS ; then
+   set default="${GRUB_DEFAULT_BUTTON}"
+else
+   set default="${GRUB_DEFAULT}"
+fi
+EOF
+else
+    cat <<EOF
+set default="${GRUB_DEFAULT}"
+EOF
+fi
+cat <<EOF
+
+if [ x"\${feature_menuentry_id}" = xy ]; then
+  menuentry_id_option="--id"
+else
+  menuentry_id_option=""
+fi
+
+export menuentry_id_option
+
+if [ "\${prev_saved_entry}" ]; then
+  set saved_entry="\${prev_saved_entry}"
+  save_env saved_entry
+  set prev_saved_entry=
+  save_env prev_saved_entry
+  set boot_once=true
+fi
+
+function savedefault {
+  if [ -z "\${boot_once}" ]; then
+    saved_entry="\${chosen}"
+    save_env saved_entry
+  fi
+}
+
+EOF
+
+case x${GRUB_TERMINAL_INPUT} in
+  x)
+    # Just use the native terminal
+  ;;
+  x*)
+    cat << EOF
+terminal_input ${GRUB_TERMINAL_INPUT}
+EOF
+  ;;
+esac
+
+case x${GRUB_TERMINAL_OUTPUT} in
+  x)
+    # Just use the native terminal
+  ;;
+  x*)
+    cat << EOF
+terminal_output ${GRUB_TERMINAL_OUTPUT}
+EOF
+  ;;
+esac
+
+make_timeout ()
+{
+    if [ "x${1}" != "x" ] ; then
+	if [ "x${GRUB_HIDDEN_TIMEOUT_QUIET}" = "xtrue" ] ; then
+	    verbose=
+	else
+	    verbose=" --verbose"
+	fi
+	cat << EOF
+if sleep$verbose --interruptible ${1} ; then
+  set timeout=${2}
+fi
+EOF
+    else
+	cat << EOF
+set timeout=${2}
+EOF
+    fi
+}
+
+if [ "x$GRUB_BUTTON_CMOS_ADDRESS" != "x" ]; then
+    cat <<EOF
+if cmostest $GRUB_BUTTON_CMOS_ADDRESS ; then
+EOF
+make_timeout "${GRUB_HIDDEN_TIMEOUT_BUTTON}" "${GRUB_TIMEOUT_BUTTON}"
+echo else
+make_timeout "${GRUB_HIDDEN_TIMEOUT}" "${GRUB_TIMEOUT}"
+echo fi
+else
+make_timeout "${GRUB_HIDDEN_TIMEOUT}" "${GRUB_TIMEOUT}"
+fi
+
+if [ "x$GRUB_BUTTON_CMOS_ADDRESS" != "x" ] && [ "x$GRUB_BUTTON_CMOS_CLEAN" = "xyes" ]; then
+    cat <<EOF
+cmosclean $GRUB_BUTTON_CMOS_ADDRESS
+EOF
+fi
+
+# Play an initial tune
+if [ "x${GRUB_INIT_TUNE}" != "x" ] ; then
+  echo "play ${GRUB_INIT_TUNE}"
+fi
+
+if [ "x${GRUB_BADRAM}" != "x" ] ; then
+  echo "badram ${GRUB_BADRAM}"
+fi
+
+cat << EOF
+set superusers="root"
+password_pbkdf2 root grub.pbkdf2.sha512.10000.D1064B516AEAA69DA5BB1EEFC55EDDC307F9FC1BDF3F2E0F56C3224F529CCC913595A8197AB4B79EA02EF58C4654819B27B407C47DB40189A86F73B2A31BB40C.B643D1498C4AF026B1071F80A63ACB0715D6B1E501DE846A5E529920C17DB2DCBD29F2F38C55DFBE9931D7D021925D6165F70DF3AB5B416150B3C15437ED6978
+EOF

@@ -1,0 +1,12 @@
+[Unit]
+Description=GPS Daemon
+ConditionFileNotEmpty=/etc/em.conf
+Wants=serial-setup.service
+After=serial-setup.service
+
+[Service]
+EnvironmentFile=/etc/em.conf
+ExecStart=/usr/sbin/gpsd -N -n -b ${GPS_DEV}
+Nice=-5
+KillMode=process
+Restart=always

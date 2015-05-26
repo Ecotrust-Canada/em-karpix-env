@@ -1,0 +1,10 @@
+[Unit]
+Description=Network Time Service
+Requires=gpsd.service
+After=gpsd.service
+
+[Service]
+Type=forking
+ExecStart=/usr/sbin/ntpd -g
+Nice=-5
+Restart=always

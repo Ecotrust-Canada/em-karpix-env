@@ -1,0 +1,14 @@
+[Unit]
+Description=Copies EM data and system logs to the data disk on shutdown
+RequiresMountsFor=/mnt/data
+Requires=var.mount
+Requires=mnt-data.mount
+Before=em-rec.service
+After=var.mount
+After=mnt-data.mount
+
+[Service]
+Type=oneshot
+ExecStart=/bin/true
+ExecStop=/opt/em/bin/copy-to-data-disk.sh
+RemainAfterExit=yes

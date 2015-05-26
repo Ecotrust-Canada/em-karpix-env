@@ -1,0 +1,7 @@
+[Unit]
+Description=SMART health check
+
+[Service]
+Type=oneshot
+ExecStart=-/usr/sbin/smartctl -x /dev/sda
+ExecStart=-/usr/sbin/smartctl -x /dev/sdb

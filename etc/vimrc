@@ -1,0 +1,6 @@
+set nocompatible
+set backspace=2
+set ruler
+if (&term == "iterm") || (&term == "putty")
+  set background=dark
+endif

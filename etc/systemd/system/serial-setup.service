@@ -1,0 +1,7 @@
+[Unit]
+Description=Set serial port options
+After=systemd-udev-trigger.service
+
+[Service]
+Type=oneshot
+ExecStart=/opt/em/bin/serial-setup.sh

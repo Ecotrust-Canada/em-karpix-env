@@ -1,0 +1,12 @@
+[Unit]
+Description=/mnt/data Directory
+#Before=local-fs.target
+#After=systemd-udev-trigger.service
+JobTimeoutSec=5
+
+[Mount]
+What=/dev/em_data
+Where=/mnt/data
+Type=ext4
+Options=defaults,noatime,nodiratime
+TimeoutSec=5

@@ -1,0 +1,21 @@
+[Unit]
+Description=EM Recorder Process
+ConditionFileNotEmpty=/etc/em.conf
+RequiresMountsFor=/tmp /var
+Requires=var.mount
+Requires=gpsd.service
+Wants=network.target
+Wants=mnt-data.mount
+Wants=capture-bttv.service
+After=var.mount
+After=gpsd.service
+After=network.target
+After=mnt-data.mount
+After=capture-bttv.service
+
+[Service]
+ExecStart=/opt/em/bin/em-rec
+Nice=-7
+KillMode=process
+Restart=always
+RestartSec=1

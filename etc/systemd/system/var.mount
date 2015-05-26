@@ -1,0 +1,10 @@
+[Unit]
+Description=/var Directory
+#Before=local-fs.target
+#After=systemd-udev-trigger.service
+
+[Mount]
+What=/dev/disk/by-label/VAR
+Where=/var
+Type=ext4
+Options=defaults,noatime,nodiratime,discard

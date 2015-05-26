@@ -1,0 +1,6 @@
+[Unit]
+Description=Log LM sensors output every hour
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=60min
