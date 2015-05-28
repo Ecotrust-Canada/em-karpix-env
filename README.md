@@ -11,7 +11,10 @@ The control box runs a custom linux known internally as "Karpix" after its creat
 
 The purpose of this linux build is to provide an environment to run the [EM Control Box System](https://github.com/Ecotrust-Canada/em-control-box).
 
+
 ## Rebuilding The Kernel
+
+These instructions are based on [linux from scratch](http://www.linuxfromscratch.org/lfs/view/development/chapter08/kernel.html)
 
 Download the new kernel to /usr/src from kernel.org, extract and enter.
 
@@ -56,3 +59,4 @@ Install the kernel
 ```
 cp arch/x86/boot/bzImage /opt/em/images/em-3.12.15
 ```
+
