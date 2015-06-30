@@ -20,7 +20,8 @@ vmlinuxz*
 #etc/
 #home/
 #root/
-root/.viminfo
 root/.bash_history
 root/.gitconfig
 root/.vim/
+root/.coffee_history
+root/.cache/

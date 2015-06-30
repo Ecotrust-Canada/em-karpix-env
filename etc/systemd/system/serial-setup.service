@@ -3,5 +3,6 @@ Description=Set serial port options
 After=systemd-udev-trigger.service
 
 [Service]
+EnvironmentFile=/etc/em.conf
 Type=oneshot
 ExecStart=/opt/em/bin/serial-setup.sh
