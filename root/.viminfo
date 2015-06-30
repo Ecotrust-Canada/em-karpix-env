@@ -8,7 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/root
+~MSle0~/getCamer
 
 # Command Line History (newest to oldest):
 :q
@@ -17,14 +17,6 @@
 :set paste
 
 # Search String History (newest to oldest):
-?/root
-?/areas
-?/etc.em.
-?/etc
-?/files.lst
-?/opt.em
-?/root\/
-?/root/
 ?/getCamer
 ?/skipped
 ?/getCameraEmbeds
@@ -37,6 +29,14 @@
 ?/onclick
 ?/click
 ?/date
+?/fakenull
+?/toTime
+?/toTimeDateCtl
+?/datetime
+?/toDate
+?/set
+?/exec
+?/setTimeout
 
 # Expression History (newest to oldest):
 
@@ -46,73 +46,42 @@
 
 # Registers:
 "0	LINE	0
-	root/.vim/
-"1	LINE	0
-	root/.viminfo
-"2	LINE	0
+	    if (error) console.error(error);
+""1	LINE	0
 	
-"3	LINE	0
+"2	LINE	0
 	            
-"4	LINE	0
+"3	LINE	0
 	            }
-"5	LINE	0
+"4	LINE	0
 	                else if (zoomedCam < VMS.SYS.numCams) zoomedCam++;
-"6	LINE	0
+"5	LINE	0
 	                if (zoomedCam == VMS.SYS.numCams) zoomedCam = 1;
-"7	LINE	0
+"6	LINE	0
 	            if (VMS.SYS.numCams > 1) {
-"8	LINE	0
+"7	LINE	0
 	    console.log(data);
-"9	LINE	0
+"8	LINE	0
 	        + '.' + String( (this.getUTCMilliseconds()/1000).toFixed(3) ).slice( 2, 5 )
-""-	CHAR	0
-	m
+"9	LINE	0
+	        + 'Z';
+"-	CHAR	0
+	 
 
 # File marks:
-'0  1  0  /etc/systemd/system/serial-setup.service
-'1  26  19  /.gitignore
-'2  23  0  /.gitignore
-'3  501  16  /opt/em/src/files.lst
-'4  210  41  /opt/em/bin/modules/development.sh
-'5  1  0  ~/.viminfo
-'6  384  35  /opt/em/public/js/vms.js
-'7  367  21  /opt/em/public/js/vms.js
-'8  26  4  /etc/em.conf
-'9  1  0  /opt/em/.git/MERGE_MSG
+'0  1  0  ~/.gitconfig
+'1  1  0  ~/.viminfo
+'2  384  35  /opt/em/public/js/vms.js
+'3  367  21  /opt/em/public/js/vms.js
+'4  26  4  /etc/em.conf
+'5  1  0  /opt/em/.git/MERGE_MSG
+'6  137  54  /opt/em/server.js
+'7  132  4  /opt/em/server.js
+'8  132  21  /opt/em/server.js
+'9  86  87  /opt/em/server.js
 
 # Jumplist (newest first):
--'  1  0  /etc/systemd/system/serial-setup.service
--'  26  19  /.gitignore
--'  1  0  /.gitignore
--'  23  0  /.gitignore
--'  501  16  /opt/em/src/files.lst
--'  84  2  /opt/em/src/files.lst
--'  69  2  /opt/em/src/files.lst
--'  2093  14  /opt/em/src/files.lst
--'  303  28  /opt/em/src/files.lst
--'  197  0  /opt/em/src/files.lst
--'  1  0  /opt/em/src/files.lst
--'  210  41  /opt/em/bin/modules/development.sh
--'  1  0  /opt/em/bin/modules/development.sh
--'  497  2  /opt/em/src/files.lst
--'  496  2  /opt/em/src/files.lst
--'  495  2  /opt/em/src/files.lst
--'  494  2  /opt/em/src/files.lst
--'  493  2  /opt/em/src/files.lst
--'  492  2  /opt/em/src/files.lst
--'  491  2  /opt/em/src/files.lst
--'  490  2  /opt/em/src/files.lst
--'  489  2  /opt/em/src/files.lst
--'  872  0  /opt/em/src/files.lst
--'  304  35  /opt/em/src/files.lst
--'  2092  0  /opt/em/src/files.lst
--'  2094  0  /opt/em/src/files.lst
--'  1432  13  /opt/em/src/files.lst
--'  590  19  /opt/em/src/files.lst
--'  577  19  /opt/em/src/files.lst
--'  377  34  /opt/em/src/files.lst
--'  311  56  /opt/em/src/files.lst
--'  305  35  /opt/em/src/files.lst
+-'  1  0  ~/.gitconfig
 -'  1  0  ~/.viminfo
 -'  384  35  /opt/em/public/js/vms.js
 -'  332  51  /opt/em/public/js/vms.js
@@ -179,36 +148,42 @@
 -'  29  0  /opt/em/server.js
 -'  65  4  /opt/em/server.js
 -'  1  0  /opt/em/lib/config.js
+-'  1  0  /opt/em/lib/routes.js
+-'  79  16  /opt/em/server.js
+-'  62  7  /opt/em/server.js
+-'  384  35  /opt/em/public/js/vms.js
+-'  332  51  /opt/em/public/js/vms.js
+-'  316  63  /opt/em/public/js/vms.js
+-'  213  13  /opt/em/public/js/vms.js
+-'  385  47  /opt/em/public/js/vms.js
+-'  335  12  /opt/em/public/js/vms.js
+-'  331  15  /opt/em/public/js/vms.js
+-'  77  8  /opt/em/public/js/vms.js
+-'  386  12  /opt/em/public/js/vms.js
+-'  233  24  /opt/em/public/js/vms.js
+-'  319  32  /opt/em/public/js/vms.js
+-'  234  12  /opt/em/public/js/vms.js
+-'  223  181  /opt/em/public/js/vms.js
+-'  72  8  /opt/em/public/js/vms.js
+-'  216  35  /opt/em/public/js/vms.js
+-'  42  42  /opt/em/public/js/vms.js
+-'  442  98  /opt/em/public/js/vms.js
+-'  343  47  /opt/em/public/js/vms.js
+-'  246  8  /opt/em/public/js/vms.js
+-'  314  63  /opt/em/public/js/vms.js
+-'  215  35  /opt/em/public/js/vms.js
+-'  1  0  /opt/em/public/js/vms.js
+-'  367  21  /opt/em/public/js/vms.js
+-'  339  16  /opt/em/public/js/vms.js
+-'  475  23  /opt/em/public/js/vms.js
+-'  462  25  /opt/em/public/js/vms.js
+-'  457  22  /opt/em/public/js/vms.js
+-'  452  29  /opt/em/public/js/vms.js
 
 # History of marks within files (newest to oldest):
 
-> /etc/systemd/system/serial-setup.service
+> ~/.gitconfig
 	"	1	0
-	^	6	28
-	.	6	27
-	+	6	27
-
-> /.gitignore
-	"	26	19
-	^	26	20
-	.	26	20
-	+	1	4
-	+	23	0
-	+	26	0
-	+	27	10
-	+	26	20
-
-> /opt/em/src/files.lst
-	"	501	16
-	^	2093	15
-	.	2093	14
-	+	2092	0
-	+	2092	0
-	+	501	20
-	+	2093	14
-
-> /opt/em/bin/modules/development.sh
-	"	210	41
 
 > ~/.viminfo
 	"	1	0
@@ -365,6 +340,9 @@
 > /opt/em/public/areas/A.area
 	"	1	0
 
+> /opt/em/bin/modules/development.sh
+	"	193	4
+
 > /etc/systemd/system/gpsd.service
 	"	10	0
 
@@ -428,6 +406,12 @@
 > /opt/em/views/index.jade
 	"	199	10
 
+> /etc/systemd/system/serial-setup.service
+	"	1	0
+	^	6	28
+	.	6	27
+	+	6	27
+
 > /var/elog/elog.db/user.json
 	"	1	0
 
@@ -451,6 +435,12 @@
 
 > /opt/em/src/config-2.2.3-stage1
 	"	1	0
+
+> /.gitignore
+	"	1	0
+	^	2	0
+	.	1	4
+	+	1	4
 
 > /etc/systemd/system/capture-bttv.service
 	"	11	0

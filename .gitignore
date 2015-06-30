@@ -21,7 +21,6 @@ vmlinuxz*
 #home/
 #root/
 root/.bash_history
-root/.gitconfig
 root/.vim/
 root/.coffee_history
 root/.cache/
