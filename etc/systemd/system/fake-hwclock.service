@@ -1,0 +1,8 @@
+[Unit]
+Description=Fake Hardware Clock Service
+
+[Service]
+Type=forking
+ExecStart=/usr/bin/fake-hwclock
+Nice=-5
+Restart=always
