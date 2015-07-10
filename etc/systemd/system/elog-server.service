@@ -4,7 +4,7 @@ Wants=em-rec.service
 After=em-rec.service
 
 [Service]
-ExecStart=/usr/bin/node /opt/elog/app.js
+ExecStart=/usr/bin/node /opt/elog/app.js --resync
 Environment=PATH=/bin:/sbin:/usr/bin:/usr/sbin
 Environment=NODE_ENV=production
 KillMode=process
