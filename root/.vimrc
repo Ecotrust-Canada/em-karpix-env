@@ -1,3 +1,3 @@
-
-set viminfo+=n/var/.viminfo
-
+set backupdir-=.
+set backupdir^=/tmp
+set viminfo=

@@ -12,7 +12,6 @@ After=gpsd.service
 After=network.target
 After=mnt-data.mount
 After=capture-bttv.service
-After=fake-hwclock.service
 
 [Service]
 ExecStart=/opt/em/bin/em-rec

@@ -1,8 +1,8 @@
 [Unit]
-Description=Fake Hardware Clock Service
+Description=Set Fake Hardware Clock
+After=systemd-udev-trigger.service
 
 [Service]
-Type=forking
-ExecStart=/usr/bin/fake-hwclock
-Nice=-5
-Restart=always
+EnvironmentFile=/etc/em.conf
+Type=simple
+ExecStart=/usr/bin/fake-hwclock save
