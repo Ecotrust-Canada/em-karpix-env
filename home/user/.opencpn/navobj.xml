@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="54.212383000" lon="-131.605550000">
+        <time>2015-06-06T08:24:35Z</time>
+        <name>17468677512</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>372373d7-416a-4c5e-ade0-afcd0ac0d2c5</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212145000" lon="-131.607260000">
+        <time>2015-06-06T08:25:44Z</time>
+        <name>4395115581</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3c8cb6dd-495b-4791-af8e-851d0a29e90f</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212363000" lon="-131.608570000">
+        <time>2015-06-06T08:28:56Z</time>
+        <name>17468678992</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1d5fe337-4ff5-4a6f-8ca4-8988710331e6</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212392000" lon="-131.609843000">
+        <time>2015-06-06T08:30:03Z</time>
+        <name>4445009804</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>77dc3866-0648-4673-87df-aeee6cee68a2</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212422000" lon="-131.610913000">
+        <time>2015-06-06T08:31:00Z</time>
+        <name>4445018369</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>19549e34-2c52-4d17-a06d-e9766723f768</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212545000" lon="-131.612222000">
+        <time>2015-06-06T08:32:06Z</time>
+        <name>17468685052</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>27865508-9944-43c9-87e2-ab5b3be9d4ec</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.213013000" lon="-131.613680000">
+        <time>2015-06-06T08:33:21Z</time>
+        <name>17468681215</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>387e1225-307a-4c27-ab80-16973c7a0fea</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212940000" lon="-131.614628000">
+        <time>2015-06-06T08:34:21Z</time>
+        <name>4442856849</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1288dbab-a01f-4afa-95a6-916d6e26ab9e</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212533000" lon="-131.615962000">
+        <time>2015-06-06T08:35:38Z</time>
+        <name>17468677845</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4325eca6-405c-4629-b86c-83422cf29ce6</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.212148000" lon="-131.617502000">
+        <time>2015-06-06T08:36:50Z</time>
+        <name>17468676390</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6d34baea-6cb8-482d-a906-0bf778ce1bd8</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211763000" lon="-131.618260000">
+        <time>2015-06-06T08:37:36Z</time>
+        <name>4516932491</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>744e1163-b752-496f-99e7-f59602aa18e5</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211400000" lon="-131.619158000">
+        <time>2015-06-06T08:38:46Z</time>
+        <name>4445024674</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>341dad63-0c2e-4e48-8dac-d942510b9d1f</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211105000" lon="-131.619812000">
+        <time>2015-06-06T08:39:40Z</time>
+        <name>17468676810</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>295ac010-6ab0-4e64-98aa-348f48fb3791</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211293000" lon="-131.605760000">
+        <time>2015-06-06T08:49:04Z</time>
+        <name>4445015892</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0bdd27b5-b7d0-4bdb-b124-14090dccf294</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211182000" lon="-131.606740000">
+        <time>2015-06-06T08:49:59Z</time>
+        <name>4445013810</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1543315a-1fff-4d36-93d6-76a6365d6648</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211165000" lon="-131.607723000">
+        <time>2015-06-06T08:50:50Z</time>
+        <name>4395120285</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5f8f2eb8-6c3d-420f-a778-f0565a536529</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.210950000" lon="-131.608818000">
+        <time>2015-06-06T08:51:43Z</time>
+        <name>17468680850</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>125cab45-c999-46be-b734-d5222838180d</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211035000" lon="-131.609980000">
+        <time>2015-06-06T08:52:39Z</time>
+        <name>4445011852</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6fab78c4-09b1-4266-b6c1-ce41749a831a</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211230000" lon="-131.611333000">
+        <time>2015-06-06T08:53:37Z</time>
+        <name>4445024819</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7305e1f4-e24a-44cf-9102-120511da560d</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.211010000" lon="-131.612390000">
+        <time>2015-06-06T08:54:33Z</time>
+        <name>4516918125</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6cce5e43-88aa-406f-98f4-027e600a6919</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.210975000" lon="-131.613015000">
+        <time>2015-06-06T08:56:21Z</time>
+        <name>4442859254</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>36a9fb4c-f2d5-44bb-91bc-cb7904be11e6</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="54.210653000" lon="-131.614258000">
+        <time>2015-06-06T08:57:31Z</time>
+        <name>4356109708</name>
+        <desc>28838</desc>
+        <sym>circle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>785d33c5-a09c-49ec-8faa-3c5363914d06</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+</gpx>

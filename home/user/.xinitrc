@@ -20,4 +20,5 @@ while true; do
 	/opt/firefox/firefox -private -no-remote -new-instance -new-window http://localhost:8081/em/ -width ${WIDTH} -height ${HEIGHT}
 	/bin/rm -rf /tmp/user/.mozilla
 	/bin/cp --no-dereference --preserve=all -r /home/user/.mozilla /tmp/user/
+	/opt/opencpn/bin/opencpn -display :1
 done

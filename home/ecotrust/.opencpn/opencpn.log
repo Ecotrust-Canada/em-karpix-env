@@ -1,0 +1,2684 @@
+22:59:42 PDT: 
+
+________
+22:59:42 PDT: 2015-07-02
+22:59:42 PDT:  ------- Starting OpenCPN -------
+22:59:42 PDT: Version 4.1.630 Build 2015-06-30
+22:59:42 PDT: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:59:42 PDT: MemoryStatus:  mem_total: 7869 mb,  mem_initial: 15 mb
+22:59:42 PDT: SData_Locn is /opt/share/opencpn/
+22:59:42 PDT: PrivateDataDir is /home/ecotrust/.opencpn
+22:59:42 PDT: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:59:42 PDT: Setting Viewpoint Lat/Lon 54.5061, -129.691
+22:59:42 PDT: Setting Ownship Lat/Lon 54.3079, -130.33
+22:59:42 PDT: Styles loading from /opt/share/opencpn/uidata/styles.xml
+22:59:42 PDT: No styles found at: /home/ecotrust/
+22:59:42 PDT: No styles found at: /home/ecotrust/.opencpn/
+22:59:42 PDT: Detected display size (horizontal): 1013 mm
+22:59:42 PDT: System default Language:  en_US
+22:59:42 PDT: Opencpn language set to:  en_US
+22:59:46 PDT: Creating glChartCanvas
+22:59:46 PDT: ChartDB Cache policy:  Application target is 1024 MBytes
+22:59:46 PDT:    Warning: found incorrect chart db version: V017
+22:59:46 PDT:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:59:46 PDT: Chartdb: Chart directory list follows
+22:59:46 PDT:   Chart directory #0: /home/ecotrust/Bsbchart
+22:59:46 PDT: GPS Watchdog Timeout is: 6 sec.
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/16016_1.KAP
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+22:59:46 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+22:59:46 PDT:    Default datum (WGS84) substituted.
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG32.KAP
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG34_2.KAP
+22:59:47 PDT: Unable to initialize background world map. No GSHHS datafiles found in /opt/share/opencpn/gshhs/
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: GSHHS World chart files have wrong version. Found 0, expected 210-220.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: OpenCPN Initialized in 5087 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading navobjects from navobj.xml
+22:59:47 PDT: Done loading navobjects
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Opening NMEA Datastream GPSD:10.20.40.86:2947
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: PlugInManager searching for PlugIns in location /opt/lib/opencpn
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:48 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:49 PDT:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+22:59:49 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:50 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:50 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+22:59:51 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:53 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:54 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:55 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:56 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:57 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:58 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:00:00 PDT: LOGBOOK:  2015-07-03 06:00:00 UTC  DR Lat   54.30790 Lon -130.33030
+23:00:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:00:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:00:00 PDT: opencpn::MyFrame exiting cleanly.
+23:00:00 PDT: Chart cache PlugIn purge
+23:00:00 PDT: Closing NMEA Datastream GPSD:10.20.40.86:2947
+23:00:00 PDT: Chart cache purge
+23:00:00 PDT: opencpn::MyApp starting exit.
+23:00:00 PDT: LOGBOOK:  2015-07-03 06:00:00 UTC OFF: Lat   54.30790 Lon -130.33030
+23:00:00 PDT: opencpn::MyApp exiting cleanly...
+23:12:58 PDT: 
+
+________
+23:12:58 PDT: 2015-07-02
+23:12:58 PDT:  ------- Starting OpenCPN -------
+23:12:58 PDT: Version 4.1.630 Build 2015-06-30
+23:12:58 PDT: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:12:58 PDT: MemoryStatus:  mem_total: 7869 mb,  mem_initial: 15 mb
+23:12:58 PDT: SData_Locn is /opt/opencpn/share/opencpn/
+23:12:58 PDT: PrivateDataDir is /home/ecotrust/.opencpn
+23:12:58 PDT: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:12:58 PDT: Setting Viewpoint Lat/Lon 54.5061, -129.691
+23:12:58 PDT: Setting Ownship Lat/Lon 54.3079, -130.33
+23:12:58 PDT: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:12:58 PDT: No styles found at: /home/ecotrust/
+23:12:58 PDT: No styles found at: /home/ecotrust/.opencpn/
+23:12:58 PDT: Detected display size (horizontal): 1013 mm
+23:12:58 PDT: System default Language:  en_US
+23:12:58 PDT: Opencpn language set to:  en_US
+23:12:58 PDT: Creating glChartCanvas
+23:12:59 PDT: ChartDB Cache policy:  Application target is 1024 MBytes
+23:12:59 PDT:    Warning: found incorrect chart db version: V017
+23:12:59 PDT:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:12:59 PDT: Chartdb: Chart directory list follows
+23:12:59 PDT:   Chart directory #0: /home/ecotrust/Bsbchart
+23:12:59 PDT: GPS Watchdog Timeout is: 6 sec.
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/16016_1.KAP
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+23:12:59 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+23:12:59 PDT:    Default datum (WGS84) substituted.
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG32.KAP
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG34_2.KAP
+23:12:59 PDT: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: GSHHS World chart files have wrong version. Found 0, expected 210-220.
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: OpenCPN Initialized in 897 ms.
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: Loading navobjects from navobj.xml
+23:12:59 PDT: Done loading navobjects
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: Opening NMEA Datastream GPSD:10.20.40.86:2947
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:01 PDT:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+23:13:01 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:02 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:02 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:03 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:04 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:05 PDT: Initializing Chart /home/ecotrust/Bsbchart/CA_CHTS/300201.KAP
+23:13:05 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/CA_CHTS/300201.KAP
+23:13:05 PDT:    Default datum (WGS84) substituted.
+23:13:05 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:05 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:15 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:15 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:15 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:16 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:16 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:17 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:17 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:18 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:19 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:20 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:21 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:22 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:23 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:23 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:24 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:25 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:26 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:27 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:28 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:29 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:30 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:31 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:31 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:39 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:40 PDT: Warning: Color not found CHDRD
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395801.KAP
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395501.KAP
+23:13:42 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/395501.KAP
+23:13:42 PDT:    Default datum (WGS84) substituted.
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395901.KAP
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395701.KAP
+23:13:47 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:55 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:59 PDT: LOGBOOK:  2015-07-03 06:13:59 UTC  DR Lat   54.30790 Lon -130.33030
+23:14:03 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:06 PDT: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+23:14:06 PDT: Using s57data in /opt/opencpn/share/opencpn/s57data
+23:14:07 PDT: Detected display size (horizontal): 1013 mm
+23:14:11 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:19 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:25 PDT: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:14:25 PDT: PlugInManager: Loading PlugIn: /opt/opencpn/lib/opencpn/libgrib_pi.so
+23:14:25 PDT:   /opt/opencpn/lib/opencpn/libgrib_pi.so
+              API Version detected: 112
+              PlugIn Version detected: 203
+23:14:25 PDT: PlugInManager: Loading PlugIn: /opt/opencpn/lib/opencpn/libdashboard_pi.so
+23:14:25 PDT:   /opt/opencpn/lib/opencpn/libdashboard_pi.so
+              API Version detected: 106
+              PlugIn Version detected: 102
+23:14:27 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:35 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:41 PDT: opencpn::MyFrame exiting cleanly.
+23:14:41 PDT: Chart cache PlugIn purge
+23:14:41 PDT: PlugInManager: UnLoading PlugIn: /opt/opencpn/lib/opencpn/libgrib_pi.so
+23:14:41 PDT: PlugInManager: UnLoading PlugIn: /opt/opencpn/lib/opencpn/libdashboard_pi.so
+23:14:41 PDT: Closing NMEA Datastream GPSD:10.20.40.86:2947
+23:14:41 PDT: Chart cache purge
+23:14:41 PDT: opencpn::MyApp starting exit.
+23:14:41 PDT: LOGBOOK:  2015-07-03 06:14:41 UTC OFF: Lat   54.30790 Lon -130.33030
+23:14:41 PDT: opencpn::MyApp exiting cleanly...
+17:14:02 PST: 
+
+________
+17:14:02 PST: 2015-11-30
+17:14:02 PST:  ------- Starting OpenCPN -------
+17:14:02 PST: Version 4.1.1108 Build 2015-111-08
+17:14:02 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+17:14:02 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+17:14:02 PST: SData_Locn is /opt/opencpn/share/opencpn/
+17:14:02 PST: PrivateDataDir is /home/ecotrust/.opencpn
+17:14:02 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+17:14:02 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+17:14:02 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+17:14:02 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+17:14:02 PST: No styles found at: /home/ecotrust/
+17:14:02 PST: No styles found at: /home/ecotrust/.opencpn/
+17:14:02 PST: Detected display size (horizontal): 338 mm
+17:14:02 PST: System default Language:  en_US
+17:14:02 PST: Opencpn language set to:  en_US
+17:14:05 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+17:14:05 PST: Creating glChartCanvas
+17:14:05 PST: ChartDB Cache policy:  Application target is 482 MBytes
+17:14:05 PST:    Warning: found incorrect chart db version: V017
+17:14:05 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+17:14:05 PST: Chartdb: Chart directory list follows
+17:14:05 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+17:14:05 PST:   Chart directory #1: /home/ecotrust/charts
+17:14:05 PST: GPS Watchdog Timeout is: 6 sec.
+17:14:05 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+17:14:06 PST: Warning: Color not found CHDRD
+17:14:06 PST: OpenCPN Initialized in 3440 ms.
+17:14:06 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+17:14:06 PST: Loading navobjects from navobj.xml
+17:14:06 PST: Done loading navobjects
+17:14:06 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+17:14:06 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+17:14:08 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+17:15:03 PST: LOGBOOK:  2015-12-01 01:15:03 UTC  DR Lat   54.30790 Lon -130.33030
+17:19:12 PST: 
+
+________
+17:19:12 PST: 2015-11-30
+17:19:12 PST:  ------- Starting OpenCPN -------
+17:19:12 PST: Version 4.1.1108 Build 2015-111-08
+17:19:12 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+17:19:12 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+17:19:12 PST: SData_Locn is /opt/opencpn/share/opencpn/
+17:19:12 PST: PrivateDataDir is /home/ecotrust/.opencpn
+17:19:12 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+17:19:12 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+17:19:12 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+17:19:12 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+17:19:12 PST: No styles found at: /home/ecotrust/
+17:19:12 PST: No styles found at: /home/ecotrust/.opencpn/
+17:19:12 PST: Detected display size (horizontal): 338 mm
+17:19:12 PST: System default Language:  en_US
+17:19:12 PST: Opencpn language set to:  en_US
+17:19:15 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+17:19:16 PST: ChartDB Cache policy:  Application target is 482 MBytes
+17:19:16 PST:    Warning: found incorrect chart db version: V017
+17:19:16 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+17:19:16 PST: Chartdb: Chart directory list follows
+17:19:16 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+17:19:16 PST:   Chart directory #1: /home/ecotrust/charts
+17:19:16 PST: GPS Watchdog Timeout is: 6 sec.
+17:19:16 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+17:19:16 PST: Warning: Color not found CHDRD
+17:19:16 PST: OpenCPN Initialized in 3514 ms.
+17:19:16 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+17:19:16 PST: Loading navobjects from navobj.xml
+17:19:16 PST: Done loading navobjects
+17:19:16 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+17:19:16 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+17:19:18 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+17:20:13 PST: LOGBOOK:  2015-12-01 01:20:13 UTC  DR Lat   54.30790 Lon -130.33030
+17:30:00 PST: LOGBOOK:  2015-12-01 01:30:00 UTC  DR Lat   54.30790 Lon -130.33030
+17:31:33 PST: 
+
+________
+17:31:33 PST: 2015-11-30
+17:31:33 PST:  ------- Starting OpenCPN -------
+17:31:33 PST: Version 4.1.1108 Build 2015-111-08
+17:31:33 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+17:31:33 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+17:31:33 PST: SData_Locn is /opt/opencpn/share/opencpn/
+17:31:33 PST: PrivateDataDir is /home/ecotrust/.opencpn
+17:31:33 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+17:31:33 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+17:31:33 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+17:31:33 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+17:31:33 PST: No styles found at: /home/ecotrust/
+17:31:33 PST: No styles found at: /home/ecotrust/.opencpn/
+17:31:34 PST: Detected display size (horizontal): 338 mm
+17:31:34 PST: System default Language:  en_US
+17:31:34 PST: Opencpn language set to:  en_US
+17:31:36 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+17:31:36 PST: Creating glChartCanvas
+17:31:36 PST: ChartDB Cache policy:  Application target is 482 MBytes
+17:31:36 PST:    Warning: found incorrect chart db version: V017
+17:31:36 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+17:31:36 PST: Chartdb: Chart directory list follows
+17:31:36 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+17:31:36 PST:   Chart directory #1: /home/ecotrust/charts
+17:31:36 PST: GPS Watchdog Timeout is: 6 sec.
+17:31:36 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+17:31:36 PST: Warning: Color not found CHDRD
+17:31:36 PST: OpenCPN Initialized in 2609 ms.
+17:31:36 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+17:31:36 PST: Loading navobjects from navobj.xml
+17:31:36 PST: Done loading navobjects
+17:31:36 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+17:31:36 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+17:31:38 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+17:32:15 PST: Warning: Color not found CHDRD
+17:32:15 PST:    External application "xcalib" not found. Screen brightness not changed.
+17:32:34 PST: LOGBOOK:  2015-12-01 01:32:34 UTC  DR Lat   54.07165 Lon -132.09614
+17:32:44 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+17:33:18 PST: Chart cache purge
+17:33:18 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+18:00:00 PST: LOGBOOK:  2015-12-01 02:00:00 UTC  DR Lat   54.07165 Lon -132.09614
+18:30:00 PST: LOGBOOK:  2015-12-01 02:30:00 UTC  DR Lat   54.07165 Lon -132.09614
+19:00:00 PST: LOGBOOK:  2015-12-01 03:00:00 UTC  DR Lat   54.07165 Lon -132.09614
+19:30:00 PST: LOGBOOK:  2015-12-01 03:30:00 UTC  DR Lat   54.07165 Lon -132.09614
+20:00:00 PST: LOGBOOK:  2015-12-01 04:00:00 UTC  DR Lat   54.07165 Lon -132.09614
+20:30:00 PST: LOGBOOK:  2015-12-01 04:30:00 UTC  DR Lat   54.07165 Lon -132.09614
+21:00:00 PST: LOGBOOK:  2015-12-01 05:00:00 UTC  DR Lat   54.07165 Lon -132.09614
+21:37:04 PST: 
+
+________
+21:37:04 PST: 2015-11-30
+21:37:04 PST:  ------- Starting OpenCPN -------
+21:37:04 PST: Version 4.1.1108 Build 2015-111-08
+21:37:04 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+21:37:04 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+21:37:04 PST: SData_Locn is /opt/opencpn/share/opencpn/
+21:37:04 PST: PrivateDataDir is /home/ecotrust/.opencpn
+21:37:04 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+21:37:04 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+21:37:04 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+21:37:04 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+21:37:04 PST: No styles found at: /home/ecotrust/
+21:37:04 PST: No styles found at: /home/ecotrust/.opencpn/
+21:37:04 PST: Detected display size (horizontal): 338 mm
+21:37:04 PST: System default Language:  en_US
+21:37:04 PST: Opencpn language set to:  en_US
+21:37:09 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+21:37:09 PST: Creating glChartCanvas
+21:37:10 PST: ChartDB Cache policy:  Application target is 482 MBytes
+21:37:10 PST:    Warning: found incorrect chart db version: V017
+21:37:10 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+21:37:10 PST: Chartdb: Chart directory list follows
+21:37:10 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+21:37:10 PST:   Chart directory #1: /home/ecotrust/charts
+21:37:10 PST: GPS Watchdog Timeout is: 6 sec.
+21:37:10 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+21:37:10 PST: Warning: Color not found CHDRD
+21:37:10 PST: OpenCPN Initialized in 6018 ms.
+21:37:10 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+21:37:10 PST: Loading navobjects from navobj.xml
+21:37:10 PST: Done loading navobjects
+21:37:10 PST: Applying NavObjChanges
+21:37:10 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+21:37:10 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+21:37:12 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+21:40:18 PST: LOGBOOK:  2015-12-01 05:40:18 UTC  DR Lat   54.30790 Lon -130.33030
+21:40:26 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+21:45:33 PST: 
+
+________
+21:45:33 PST: 2015-11-30
+21:45:33 PST:  ------- Starting OpenCPN -------
+21:45:33 PST: Version 4.1.1108 Build 2015-111-08
+21:45:33 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+21:45:33 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+21:45:33 PST: SData_Locn is /opt/opencpn/share/opencpn/
+21:45:33 PST: PrivateDataDir is /home/ecotrust/.opencpn
+21:45:33 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+21:45:33 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+21:45:33 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+21:45:33 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+21:45:33 PST: No styles found at: /home/ecotrust/
+21:45:33 PST: No styles found at: /home/ecotrust/.opencpn/
+21:45:33 PST: Detected display size (horizontal): 338 mm
+21:45:33 PST: System default Language:  en_US
+21:45:33 PST: Opencpn language set to:  en_US
+21:45:36 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+21:45:36 PST: Creating glChartCanvas
+21:45:36 PST: ChartDB Cache policy:  Application target is 482 MBytes
+21:45:36 PST:    Warning: found incorrect chart db version: V017
+21:45:36 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+21:45:36 PST: Chartdb: Chart directory list follows
+21:45:36 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+21:45:36 PST:   Chart directory #1: /home/ecotrust/charts
+21:45:36 PST: GPS Watchdog Timeout is: 6 sec.
+21:45:36 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+21:45:36 PST: Warning: Color not found CHDRD
+21:45:36 PST: OpenCPN Initialized in 2985 ms.
+21:45:36 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+21:45:36 PST: Loading navobjects from navobj.xml
+21:45:36 PST: Done loading navobjects
+21:45:37 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+21:45:37 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+21:45:38 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+21:46:56 PST: LOGBOOK:  2015-12-01 05:46:56 UTC  DR Lat   54.30790 Lon -130.33030
+21:46:58 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+21:49:02 PST: 
+
+________
+21:49:02 PST: 2015-11-30
+21:49:02 PST:  ------- Starting OpenCPN -------
+21:49:02 PST: Version 4.1.1108 Build 2015-111-08
+21:49:03 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+21:49:03 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+21:49:03 PST: SData_Locn is /opt/opencpn/share/opencpn/
+21:49:03 PST: PrivateDataDir is /home/ecotrust/.opencpn
+21:49:03 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+21:49:03 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+21:49:03 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+21:49:03 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+21:49:03 PST: No styles found at: /home/ecotrust/
+21:49:03 PST: No styles found at: /home/ecotrust/.opencpn/
+21:49:03 PST: Detected display size (horizontal): 338 mm
+21:49:03 PST: System default Language:  en_US
+21:49:03 PST: Opencpn language set to:  en_US
+21:49:06 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+21:49:06 PST: Creating glChartCanvas
+21:49:06 PST: ChartDB Cache policy:  Application target is 482 MBytes
+21:49:06 PST:    Warning: found incorrect chart db version: V017
+21:49:06 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+21:49:06 PST: Chartdb: Chart directory list follows
+21:49:06 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+21:49:06 PST:   Chart directory #1: /home/ecotrust/charts
+21:49:06 PST: GPS Watchdog Timeout is: 6 sec.
+21:49:06 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+21:49:06 PST: Warning: Color not found CHDRD
+21:49:06 PST: OpenCPN Initialized in 3766 ms.
+21:49:06 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+21:49:06 PST: Loading navobjects from navobj.xml
+21:49:06 PST: Done loading navobjects
+21:49:07 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+21:49:07 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+21:49:08 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+21:49:11 PST: Chart cache purge
+21:49:11 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+21:49:12 PST: Chart cache purge
+21:49:12 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+21:51:48 PST: 
+
+________
+21:51:48 PST: 2015-11-30
+21:51:48 PST:  ------- Starting OpenCPN -------
+21:51:48 PST: Version 4.1.1108 Build 2015-111-08
+21:51:48 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+21:51:48 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+21:51:48 PST: SData_Locn is /opt/opencpn/share/opencpn/
+21:51:48 PST: PrivateDataDir is /home/ecotrust/.opencpn
+21:51:48 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+21:51:48 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+21:51:48 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+21:51:48 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+21:51:48 PST: No styles found at: /home/ecotrust/
+21:51:48 PST: No styles found at: /home/ecotrust/.opencpn/
+21:51:48 PST: Detected display size (horizontal): 338 mm
+21:51:48 PST: System default Language:  en_US
+21:51:48 PST: Opencpn language set to:  en_US
+21:51:49 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+21:51:50 PST: Creating glChartCanvas
+21:51:50 PST: ChartDB Cache policy:  Application target is 482 MBytes
+21:51:50 PST:    Warning: found incorrect chart db version: V017
+21:51:50 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+21:51:50 PST: Chartdb: Chart directory list follows
+21:51:50 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+21:51:50 PST:   Chart directory #1: /home/ecotrust/charts
+21:51:50 PST: GPS Watchdog Timeout is: 6 sec.
+21:51:50 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+21:51:50 PST: Warning: Color not found CHDRD
+21:51:50 PST: OpenCPN Initialized in 1983 ms.
+21:51:50 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+21:51:50 PST: Loading navobjects from navobj.xml
+21:51:50 PST: Done loading navobjects
+21:51:50 PST: Opening NMEA Datastream GPSD:10.20.40.86:2947
+21:51:50 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+21:51:52 PST:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+21:51:52 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+21:55:48 PST: 
+
+________
+21:55:48 PST: 2015-11-30
+21:55:48 PST:  ------- Starting OpenCPN -------
+21:55:48 PST: Version 4.1.1108 Build 2015-111-08
+21:55:48 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+21:55:48 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+21:55:48 PST: SData_Locn is /opt/opencpn/share/opencpn/
+21:55:48 PST: PrivateDataDir is /home/ecotrust/.opencpn
+21:55:48 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+21:55:48 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+21:55:48 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+21:55:48 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+21:55:48 PST: No styles found at: /home/ecotrust/
+21:55:48 PST: No styles found at: /home/ecotrust/.opencpn/
+21:55:48 PST: Detected display size (horizontal): 338 mm
+21:55:48 PST: System default Language:  en_US
+21:55:48 PST: Opencpn language set to:  en_US
+21:55:50 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+21:55:50 PST: Creating glChartCanvas
+21:55:50 PST: ChartDB Cache policy:  Application target is 482 MBytes
+21:55:50 PST:    Warning: found incorrect chart db version: V017
+21:55:50 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+21:55:50 PST: Chartdb: Chart directory list follows
+21:55:50 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+21:55:50 PST:   Chart directory #1: /home/ecotrust/charts
+21:55:50 PST: GPS Watchdog Timeout is: 6 sec.
+21:55:50 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+21:55:50 PST: Warning: Color not found CHDRD
+21:55:50 PST: OpenCPN Initialized in 2097 ms.
+21:55:50 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+21:55:50 PST: Loading navobjects from navobj.xml
+21:55:50 PST: Done loading navobjects
+21:55:50 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+21:55:51 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+21:55:51 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+21:55:51 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+21:55:51 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+21:55:51 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+21:55:51 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+21:55:52 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+21:56:49 PST: LOGBOOK:  2015-12-01 05:56:49 UTC  GPS Lat   54.31385 Lon -130.32274 COG   30.10000 SOG   0.40 kts
+21:58:53 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+21:58:56 PST: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+21:58:56 PST: Loading World Chart Q=0 in 0 ms.
+21:58:56 PST: GSHHS World chart files have wrong version. Found 0, expected 210-220.
+21:58:56 PST: Loading World Chart Q=0 in 0 ms.
+21:59:00 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+21:59:01 PST: Loading World Chart Q=0 in 0 ms.
+22:08:00 PST: 
+
+________
+22:08:00 PST: 2015-11-30
+22:08:00 PST:  ------- Starting OpenCPN -------
+22:08:00 PST: Version 4.1.1108 Build 2015-111-08
+22:08:00 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:08:00 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:08:00 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:08:00 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:08:00 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:08:00 PST: Setting Viewpoint Lat/Lon 54.051, -132.091
+22:08:00 PST: Setting Ownship Lat/Lon 54.3079, -130.33
+22:08:00 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:08:00 PST: No styles found at: /home/ecotrust/
+22:08:00 PST: No styles found at: /home/ecotrust/.opencpn/
+22:08:00 PST: Detected display size (horizontal): 338 mm
+22:08:00 PST: System default Language:  en_US
+22:08:00 PST: Opencpn language set to:  en_US
+22:08:04 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:08:04 PST: Creating glChartCanvas
+22:08:05 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:08:05 PST:    Warning: found incorrect chart db version: V017
+22:08:05 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:08:05 PST: Chartdb: Chart directory list follows
+22:08:05 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:08:05 PST:   Chart directory #1: /home/ecotrust/charts
+22:08:05 PST: GPS Watchdog Timeout is: 6 sec.
+22:08:05 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+22:08:05 PST: Warning: Color not found CHDRD
+22:08:05 PST: OpenCPN Initialized in 4624 ms.
+22:08:05 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:08:05 PST: Loading navobjects from navobj.xml
+22:08:05 PST: Done loading navobjects
+22:08:05 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:08:05 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:08:05 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:08:05 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:08:06 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:08:06 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:08:06 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:08:07 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:09:01 PST: LOGBOOK:  2015-12-01 06:09:01 UTC  GPS Lat   54.31386 Lon -130.32273 COG    0.00000 SOG   0.08 kts
+22:09:11 PST: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+22:09:11 PST: Loading World Chart Q=0 in 0 ms.
+22:09:11 PST: GSHHS World chart files have wrong version. Found 2775309989, expected 210-220.
+22:09:11 PST: Loading World Chart Q=0 in 0 ms.
+22:09:18 PST: Loading World Chart Q=0 in 0 ms.
+22:09:21 PST: Loading World Chart Q=0 in 0 ms.
+22:09:23 PST: Loading World Chart Q=0 in 0 ms.
+22:10:02 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+22:36:18 PST: 
+
+________
+22:36:18 PST: 2015-11-30
+22:36:18 PST:  ------- Starting OpenCPN -------
+22:36:18 PST: Version 4.1.1108 Build 2015-111-08
+22:36:18 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:36:18 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:36:18 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:36:18 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:36:18 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:36:18 PST: Setting Viewpoint Lat/Lon 54.0616, -132.079
+22:36:18 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+22:36:18 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:36:18 PST: No styles found at: /home/ecotrust/
+22:36:18 PST: No styles found at: /home/ecotrust/.opencpn/
+22:36:18 PST: Detected display size (horizontal): 338 mm
+22:36:18 PST: System default Language:  en_US
+22:36:18 PST: Opencpn language set to:  en_US
+22:36:18 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:36:18 PST: Creating glChartCanvas
+22:36:18 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:36:18 PST:    Warning: found incorrect chart db version: V017
+22:36:18 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:36:18 PST: Chartdb: Chart directory list follows
+22:36:18 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:36:18 PST:   Chart directory #1: /home/ecotrust/charts
+22:36:18 PST: GPS Watchdog Timeout is: 6 sec.
+22:36:18 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+22:36:18 PST: Warning: Color not found CHDRD
+22:36:19 PST: OpenCPN Initialized in 738 ms.
+22:36:19 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:36:19 PST: Loading navobjects from navobj.xml
+22:36:19 PST: Done loading navobjects
+22:36:19 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:36:19 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:36:19 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:19 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:19 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:19 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:20 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:20 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:29 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+22:36:29 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+22:36:30 PST: 
+
+________
+22:36:30 PST: 2015-11-30
+22:36:30 PST:  ------- Starting OpenCPN -------
+22:36:30 PST: Version 4.1.1108 Build 2015-111-08
+22:36:30 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:36:30 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:36:30 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:36:30 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:36:30 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:36:30 PST: Setting Viewpoint Lat/Lon 54.0616, -132.079
+22:36:30 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+22:36:30 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:36:30 PST: No styles found at: /home/ecotrust/
+22:36:30 PST: No styles found at: /home/ecotrust/.opencpn/
+22:36:30 PST: Detected display size (horizontal): 338 mm
+22:36:30 PST: System default Language:  en_US
+22:36:30 PST: Opencpn language set to:  en_US
+22:36:30 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:36:30 PST: Creating glChartCanvas
+22:36:31 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:36:31 PST:    Warning: found incorrect chart db version: V017
+22:36:31 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:36:31 PST: Chartdb: Chart directory list follows
+22:36:31 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:36:31 PST:   Chart directory #1: /home/ecotrust/charts
+22:36:31 PST: GPS Watchdog Timeout is: 6 sec.
+22:36:31 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+22:36:31 PST: Warning: Color not found CHDRD
+22:36:31 PST: OpenCPN Initialized in 694 ms.
+22:36:31 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:36:31 PST: Loading navobjects from navobj.xml
+22:36:31 PST: Done loading navobjects
+22:36:31 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:36:31 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:31 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:36:31 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:32 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:32 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:32 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:33 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:42 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+22:36:43 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+22:36:44 PST: 
+
+________
+22:36:44 PST: 2015-11-30
+22:36:44 PST:  ------- Starting OpenCPN -------
+22:36:44 PST: Version 4.1.1108 Build 2015-111-08
+22:36:44 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:36:44 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:36:44 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:36:44 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:36:44 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:36:44 PST: Setting Viewpoint Lat/Lon 54.0616, -132.079
+22:36:44 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+22:36:44 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:36:44 PST: No styles found at: /home/ecotrust/
+22:36:44 PST: No styles found at: /home/ecotrust/.opencpn/
+22:36:44 PST: Detected display size (horizontal): 338 mm
+22:36:44 PST: System default Language:  en_US
+22:36:44 PST: Opencpn language set to:  en_US
+22:36:44 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:36:44 PST: Creating glChartCanvas
+22:36:44 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:36:44 PST:    Warning: found incorrect chart db version: V017
+22:36:44 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:36:44 PST: Chartdb: Chart directory list follows
+22:36:44 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:36:44 PST:   Chart directory #1: /home/ecotrust/charts
+22:36:44 PST: GPS Watchdog Timeout is: 6 sec.
+22:36:44 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+22:36:44 PST: Warning: Color not found CHDRD
+22:36:44 PST: OpenCPN Initialized in 726 ms.
+22:36:45 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:36:45 PST: Loading navobjects from navobj.xml
+22:36:45 PST: Done loading navobjects
+22:36:45 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:36:45 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:45 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:36:45 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:45 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:45 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:45 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:46 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:36:49 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:37:20 PST: opencpn::MyFrame exiting cleanly.
+22:37:20 PST: Chart cache PlugIn purge
+22:37:20 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+22:37:20 PST: Chart cache purge
+22:37:20 PST: opencpn::MyApp starting exit.
+22:37:20 PST: LOGBOOK:  2015-12-01 06:37:20 UTC OFF: Lat   54.31379 Lon -130.32286 COG  166.40000 SOG   0.21 kts
+22:37:20 PST: opencpn::MyApp exiting cleanly...
+22:37:21 PST: 
+
+________
+22:37:21 PST: 2015-11-30
+22:37:21 PST:  ------- Starting OpenCPN -------
+22:37:21 PST: Version 4.1.1108 Build 2015-111-08
+22:37:21 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:37:21 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:37:21 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:37:21 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:37:21 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:37:21 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:37:21 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:37:21 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:37:21 PST: No styles found at: /home/ecotrust/
+22:37:21 PST: No styles found at: /home/ecotrust/.opencpn/
+22:37:21 PST: Detected display size (horizontal): 338 mm
+22:37:21 PST: System default Language:  en_US
+22:37:21 PST: Opencpn language set to:  en_US
+22:37:21 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:37:21 PST: Creating glChartCanvas
+22:37:21 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:37:21 PST:    Warning: found incorrect chart db version: V017
+22:37:21 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:37:21 PST: Chartdb: Chart directory list follows
+22:37:21 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:37:21 PST:   Chart directory #1: /home/ecotrust/charts
+22:37:21 PST: GPS Watchdog Timeout is: 6 sec.
+22:37:21 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+22:37:21 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:37:22 PST: Warning: Color not found CHDRD
+22:37:22 PST: OpenCPN Initialized in 1137 ms.
+22:37:22 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:37:22 PST: Loading navobjects from navobj.xml
+22:37:22 PST: Done loading navobjects
+22:37:23 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:37:23 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:23 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:37:24 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:37:24 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:24 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:24 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:24 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:25 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:31 PST: opencpn::MyFrame exiting cleanly.
+22:37:31 PST: Chart cache PlugIn purge
+22:37:31 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+22:37:31 PST: Chart cache purge
+22:37:31 PST: opencpn::MyApp starting exit.
+22:37:31 PST: LOGBOOK:  2015-12-01 06:37:31 UTC OFF: Lat   54.31379 Lon -130.32285 COG    0.00000 SOG   0.14 kts
+22:37:31 PST: opencpn::MyApp exiting cleanly...
+22:37:31 PST: 
+
+________
+22:37:31 PST: 2015-11-30
+22:37:31 PST:  ------- Starting OpenCPN -------
+22:37:31 PST: Version 4.1.1108 Build 2015-111-08
+22:37:31 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:37:31 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:37:31 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:37:31 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:37:31 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:37:31 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:37:31 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:37:31 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:37:31 PST: No styles found at: /home/ecotrust/
+22:37:31 PST: No styles found at: /home/ecotrust/.opencpn/
+22:37:31 PST: Detected display size (horizontal): 338 mm
+22:37:31 PST: System default Language:  en_US
+22:37:31 PST: Opencpn language set to:  en_US
+22:37:31 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:37:31 PST: Creating glChartCanvas
+22:37:32 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:37:32 PST:    Warning: found incorrect chart db version: V017
+22:37:32 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:37:32 PST: Chartdb: Chart directory list follows
+22:37:32 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:37:32 PST:   Chart directory #1: /home/ecotrust/charts
+22:37:32 PST: GPS Watchdog Timeout is: 6 sec.
+22:37:32 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:37:32 PST: Warning: Color not found CHDRD
+22:37:32 PST: OpenCPN Initialized in 1133 ms.
+22:37:33 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:37:33 PST: Loading navobjects from navobj.xml
+22:37:33 PST: Done loading navobjects
+22:37:34 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:37:34 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:34 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:37:35 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:37:35 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:35 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:35 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:35 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:37:35 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:16 PST: LOGBOOK:  2015-12-01 06:40:16 UTC  GPS Lat   54.31379 Lon -130.32284 COG    0.00000 SOG   0.02 kts
+22:40:21 PST: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+22:40:21 PST: Loading World Chart Q=0 in 0 ms.
+22:40:21 PST: GSHHS World chart files have wrong version. Found 3607071958, expected 210-220.
+22:40:21 PST: Loading World Chart Q=0 in 0 ms.
+22:40:27 PST: Loading World Chart Q=0 in 0 ms.
+22:40:27 PST: Loading World Chart Q=0 in 0 ms.
+22:40:27 PST: Loading World Chart Q=0 in 0 ms.
+22:40:30 PST: Loading World Chart Q=0 in 0 ms.
+22:40:30 PST: Loading World Chart Q=0 in 0 ms.
+22:40:32 PST: Loading World Chart Q=0 in 0 ms.
+22:40:35 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+22:40:36 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+22:40:37 PST: 
+
+________
+22:40:37 PST: 2015-11-30
+22:40:37 PST:  ------- Starting OpenCPN -------
+22:40:37 PST: Version 4.1.1108 Build 2015-111-08
+22:40:37 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:40:37 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:40:37 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:40:37 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:40:37 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:40:37 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:40:37 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:40:37 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:40:37 PST: No styles found at: /home/ecotrust/
+22:40:37 PST: No styles found at: /home/ecotrust/.opencpn/
+22:40:37 PST: Detected display size (horizontal): 338 mm
+22:40:37 PST: System default Language:  en_US
+22:40:37 PST: Opencpn language set to:  en_US
+22:40:37 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:40:37 PST: Creating glChartCanvas
+22:40:37 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:40:37 PST:    Warning: found incorrect chart db version: V017
+22:40:37 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:40:37 PST: Chartdb: Chart directory list follows
+22:40:37 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:40:37 PST:   Chart directory #1: /home/ecotrust/charts
+22:40:37 PST: GPS Watchdog Timeout is: 6 sec.
+22:40:37 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:40:38 PST: Warning: Color not found CHDRD
+22:40:38 PST: OpenCPN Initialized in 1106 ms.
+22:40:38 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:40:38 PST: Loading navobjects from navobj.xml
+22:40:38 PST: Done loading navobjects
+22:40:40 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:40:40 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:40 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:40:41 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:40:41 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:41 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:41 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:41 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:41 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:40:58 PST: 
+
+________
+22:40:58 PST: 2015-11-30
+22:40:58 PST:  ------- Starting OpenCPN -------
+22:40:58 PST: Version 4.1.1108 Build 2015-111-08
+22:40:58 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:40:58 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:40:58 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:40:58 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:40:58 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:40:58 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:40:58 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:40:58 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:40:58 PST: No styles found at: /home/ecotrust/
+22:40:58 PST: No styles found at: /home/ecotrust/.opencpn/
+22:40:58 PST: Detected display size (horizontal): 338 mm
+22:40:58 PST: System default Language:  en_US
+22:40:58 PST: Opencpn language set to:  en_US
+22:40:58 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:40:58 PST: Creating glChartCanvas
+22:40:58 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:40:58 PST:    Warning: found incorrect chart db version: V017
+22:40:58 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:40:58 PST: Chartdb: Chart directory list follows
+22:40:58 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:40:58 PST:   Chart directory #1: /home/ecotrust/charts
+22:40:58 PST: GPS Watchdog Timeout is: 6 sec.
+22:40:58 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:40:59 PST: Warning: Color not found CHDRD
+22:40:59 PST: OpenCPN Initialized in 1197 ms.
+22:40:59 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:40:59 PST: Loading navobjects from navobj.xml
+22:40:59 PST: Done loading navobjects
+22:41:00 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:41:01 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:41:02 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:41:02 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:41:02 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:41:02 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:41:02 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:41:02 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:41:02 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:41:59 PST: LOGBOOK:  2015-12-01 06:41:59 UTC  GPS Lat   54.31379 Lon -130.32275 COG    0.00000 SOG   0.13 kts
+22:41:59 PST: opencpn::MyFrame exiting cleanly.
+22:41:59 PST: Chart cache PlugIn purge
+22:41:59 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+22:41:59 PST: Chart cache purge
+22:41:59 PST: opencpn::MyApp starting exit.
+22:41:59 PST: LOGBOOK:  2015-12-01 06:41:59 UTC OFF: Lat   54.31379 Lon -130.32275 COG    0.00000 SOG   0.13 kts
+22:41:59 PST: opencpn::MyApp exiting cleanly...
+22:41:59 PST: 
+
+________
+22:41:59 PST: 2015-11-30
+22:41:59 PST:  ------- Starting OpenCPN -------
+22:41:59 PST: Version 4.1.1108 Build 2015-111-08
+22:41:59 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:41:59 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:41:59 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:41:59 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:41:59 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:41:59 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:41:59 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:41:59 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:41:59 PST: No styles found at: /home/ecotrust/
+22:41:59 PST: No styles found at: /home/ecotrust/.opencpn/
+22:41:59 PST: Detected display size (horizontal): 338 mm
+22:41:59 PST: System default Language:  en_US
+22:41:59 PST: Opencpn language set to:  en_US
+22:41:59 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:41:59 PST: Creating glChartCanvas
+22:42:00 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:42:00 PST:    Warning: found incorrect chart db version: V017
+22:42:00 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:42:00 PST: Chartdb: Chart directory list follows
+22:42:00 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:42:00 PST:   Chart directory #1: /home/ecotrust/charts
+22:42:00 PST: GPS Watchdog Timeout is: 6 sec.
+22:42:00 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:42:00 PST: Warning: Color not found CHDRD
+22:42:00 PST: OpenCPN Initialized in 1138 ms.
+22:42:01 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:42:01 PST: Loading navobjects from navobj.xml
+22:42:01 PST: Done loading navobjects
+22:42:02 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:42:02 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:42:03 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:42:03 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:42:03 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:42:03 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:42:03 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:42:03 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:42:03 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:31 PST: 
+
+________
+22:55:31 PST: 2015-11-30
+22:55:31 PST:  ------- Starting OpenCPN -------
+22:55:31 PST: Version 4.1.1108 Build 2015-111-08
+22:55:31 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:55:31 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:55:31 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:55:31 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:55:31 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:55:31 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:55:31 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:55:31 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:55:31 PST: No styles found at: /home/ecotrust/
+22:55:31 PST: No styles found at: /home/ecotrust/.opencpn/
+22:55:31 PST: Detected display size (horizontal): 338 mm
+22:55:31 PST: System default Language:  en_US
+22:55:31 PST: Opencpn language set to:  en_US
+22:55:31 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:55:31 PST: Creating glChartCanvas
+22:55:31 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:55:31 PST:    Warning: found incorrect chart db version: V017
+22:55:31 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:55:31 PST: Chartdb: Chart directory list follows
+22:55:31 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:55:31 PST:   Chart directory #1: /home/ecotrust/charts
+22:55:31 PST: GPS Watchdog Timeout is: 6 sec.
+22:55:31 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:55:32 PST: Warning: Color not found CHDRD
+22:55:32 PST: OpenCPN Initialized in 1180 ms.
+22:55:33 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:55:33 PST: Loading navobjects from navobj.xml
+22:55:33 PST: Done loading navobjects
+22:55:33 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:55:33 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:55:34 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:55:34 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:34 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:34 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:34 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:34 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:35 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:43 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+22:55:44 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+22:55:44 PST: 
+
+________
+22:55:44 PST: 2015-11-30
+22:55:44 PST:  ------- Starting OpenCPN -------
+22:55:44 PST: Version 4.1.1108 Build 2015-111-08
+22:55:45 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:55:45 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:55:45 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:55:45 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:55:45 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:55:45 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+22:55:45 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+22:55:45 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:55:45 PST: No styles found at: /home/ecotrust/
+22:55:45 PST: No styles found at: /home/ecotrust/.opencpn/
+22:55:45 PST: Detected display size (horizontal): 338 mm
+22:55:45 PST: System default Language:  en_US
+22:55:45 PST: Opencpn language set to:  en_US
+22:55:45 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:55:45 PST: Creating glChartCanvas
+22:55:45 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:55:45 PST:    Warning: found incorrect chart db version: V017
+22:55:45 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:55:45 PST: Chartdb: Chart directory list follows
+22:55:45 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:55:45 PST:   Chart directory #1: /home/ecotrust/charts
+22:55:45 PST: GPS Watchdog Timeout is: 6 sec.
+22:55:45 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:55:46 PST: Warning: Color not found CHDRD
+22:55:46 PST: OpenCPN Initialized in 1146 ms.
+22:55:46 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:55:46 PST: Loading navobjects from navobj.xml
+22:55:46 PST: Done loading navobjects
+22:55:47 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:55:47 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:55:48 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+22:55:48 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:48 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:48 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:48 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:48 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:55:48 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:56:13 PST: opencpn::MyFrame exiting cleanly.
+22:56:13 PST: Chart cache PlugIn purge
+22:56:13 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+22:56:13 PST: Chart cache purge
+22:56:13 PST: opencpn::MyApp starting exit.
+22:56:13 PST: LOGBOOK:  2015-12-01 06:56:13 UTC OFF: Lat   54.31387 Lon -130.32262 COG  314.70000 SOG   1.14 kts
+22:56:13 PST: opencpn::MyApp exiting cleanly...
+22:56:13 PST: 
+
+________
+22:56:13 PST: 2015-11-30
+22:56:13 PST:  ------- Starting OpenCPN -------
+22:56:13 PST: Version 4.1.1108 Build 2015-111-08
+22:56:13 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:56:13 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:56:13 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:56:13 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:56:13 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:56:13 PST: Setting Viewpoint Lat/Lon 54.3304, -130.31
+22:56:13 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+22:56:13 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:56:13 PST: No styles found at: /home/ecotrust/
+22:56:13 PST: No styles found at: /home/ecotrust/.opencpn/
+22:56:13 PST: Detected display size (horizontal): 338 mm
+22:56:13 PST: System default Language:  en_US
+22:56:13 PST: Opencpn language set to:  en_US
+22:56:13 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:56:13 PST: Creating glChartCanvas
+22:56:13 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:56:13 PST:    Warning: found incorrect chart db version: V017
+22:56:13 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:56:13 PST: Chartdb: Chart directory list follows
+22:56:13 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:56:13 PST:   Chart directory #1: /home/ecotrust/charts
+22:56:13 PST: GPS Watchdog Timeout is: 6 sec.
+22:56:13 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:56:14 PST: Warning: Color not found CHDRD
+22:56:14 PST: OpenCPN Initialized in 1150 ms.
+22:56:14 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:56:14 PST: Loading navobjects from navobj.xml
+22:56:14 PST: Done loading navobjects
+22:56:16 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:56:16 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:56:17 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+22:56:17 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:56:17 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:56:17 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:56:17 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:56:17 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+22:56:17 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:59:25 PST: LOGBOOK:  2015-12-01 06:59:25 UTC  GPS Lat   54.31390 Lon -130.32267 COG    0.00000 SOG   0.18 kts
+22:59:49 PST: 
+
+________
+22:59:49 PST: 2015-11-30
+22:59:49 PST:  ------- Starting OpenCPN -------
+22:59:49 PST: Version 4.1.1108 Build 2015-111-08
+22:59:49 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:59:49 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+22:59:49 PST: SData_Locn is /opt/opencpn/share/opencpn/
+22:59:49 PST: PrivateDataDir is /home/ecotrust/.opencpn
+22:59:49 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:59:49 PST: Setting Viewpoint Lat/Lon 54.3304, -130.31
+22:59:49 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+22:59:49 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+22:59:49 PST: No styles found at: /home/ecotrust/
+22:59:49 PST: No styles found at: /home/ecotrust/.opencpn/
+22:59:49 PST: Detected display size (horizontal): 338 mm
+22:59:49 PST: System default Language:  en_US
+22:59:49 PST: Opencpn language set to:  en_US
+22:59:49 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+22:59:49 PST: Creating glChartCanvas
+22:59:49 PST: ChartDB Cache policy:  Application target is 482 MBytes
+22:59:49 PST:    Warning: found incorrect chart db version: V017
+22:59:49 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:59:49 PST: Chartdb: Chart directory list follows
+22:59:49 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+22:59:49 PST:   Chart directory #1: /home/ecotrust/charts
+22:59:49 PST: GPS Watchdog Timeout is: 6 sec.
+22:59:49 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+22:59:50 PST: Warning: Color not found CHDRD
+22:59:50 PST: OpenCPN Initialized in 1175 ms.
+22:59:51 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+22:59:51 PST: Loading navobjects from navobj.xml
+22:59:51 PST: Done loading navobjects
+22:59:51 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+22:59:51 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+22:59:51 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+22:59:52 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:59:52 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+22:59:52 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+22:59:52 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+22:59:53 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:00:01 PST: LOGBOOK:  2015-12-01 07:00:01 UTC  GPS Lat   54.31386 Lon -130.32263 COG    0.00000 SOG   0.02 kts
+23:00:40 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+23:04:13 PST: 
+
+________
+23:04:13 PST: 2015-11-30
+23:04:13 PST:  ------- Starting OpenCPN -------
+23:04:13 PST: Version 4.1.1108 Build 2015-111-08
+23:04:13 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:04:13 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:04:13 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:04:13 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:04:13 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:04:13 PST: Setting Viewpoint Lat/Lon 54.3304, -130.31
+23:04:13 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+23:04:13 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:04:13 PST: No styles found at: /home/ecotrust/
+23:04:13 PST: No styles found at: /home/ecotrust/.opencpn/
+23:04:13 PST: Detected display size (horizontal): 338 mm
+23:04:13 PST: System default Language:  en_US
+23:04:13 PST: Opencpn language set to:  en_US
+23:04:13 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:04:13 PST: Creating glChartCanvas
+23:04:14 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:04:14 PST:    Warning: found incorrect chart db version: V017
+23:04:14 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:04:14 PST: Chartdb: Chart directory list follows
+23:04:14 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:04:14 PST:   Chart directory #1: /home/ecotrust/charts
+23:04:14 PST: GPS Watchdog Timeout is: 6 sec.
+23:04:14 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:04:14 PST: Warning: Color not found CHDRD
+23:04:14 PST: OpenCPN Initialized in 1189 ms.
+23:04:15 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:04:15 PST: Loading navobjects from navobj.xml
+23:04:15 PST: Done loading navobjects
+23:04:16 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:04:16 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:16 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:04:17 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:17 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:17 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:17 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:17 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:41 PST: opencpn::MyFrame exiting cleanly.
+23:04:41 PST: Chart cache PlugIn purge
+23:04:41 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+23:04:41 PST: Chart cache purge
+23:04:41 PST: opencpn::MyApp starting exit.
+23:04:41 PST: LOGBOOK:  2015-12-01 07:04:41 UTC OFF: Lat   54.31382 Lon -130.32261 COG  116.10000 SOG   0.41 kts
+23:04:41 PST: opencpn::MyApp exiting cleanly...
+23:04:42 PST: 
+
+________
+23:04:42 PST: 2015-11-30
+23:04:42 PST:  ------- Starting OpenCPN -------
+23:04:42 PST: Version 4.1.1108 Build 2015-111-08
+23:04:42 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:04:42 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:04:42 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:04:42 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:04:42 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:04:42 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+23:04:42 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+23:04:42 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:04:42 PST: No styles found at: /home/ecotrust/
+23:04:42 PST: No styles found at: /home/ecotrust/.opencpn/
+23:04:42 PST: Detected display size (horizontal): 338 mm
+23:04:42 PST: System default Language:  en_US
+23:04:42 PST: Opencpn language set to:  en_US
+23:04:42 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:04:42 PST: Creating glChartCanvas
+23:04:42 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:04:42 PST:    Warning: found incorrect chart db version: V017
+23:04:42 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:04:42 PST: Chartdb: Chart directory list follows
+23:04:42 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:04:42 PST:   Chart directory #1: /home/ecotrust/charts
+23:04:42 PST: GPS Watchdog Timeout is: 6 sec.
+23:04:42 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:04:42 PST: OpenCPN Initialized in 713 ms.
+23:04:43 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:04:43 PST: Loading navobjects from navobj.xml
+23:04:43 PST: Done loading navobjects
+23:04:43 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:04:43 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:43 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:04:43 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:43 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:43 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:43 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:44 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:04:49 PST: Loading Tide/Current data source: /usr/share/opencpn/tcdata/HARMONIC.IDX
+23:07:48 PST: 
+
+________
+23:07:48 PST: 2015-11-30
+23:07:48 PST:  ------- Starting OpenCPN -------
+23:07:48 PST: Version 4.1.1108 Build 2015-111-08
+23:07:49 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:07:49 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:07:49 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:07:49 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:07:49 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:07:49 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+23:07:49 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+23:07:49 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:07:49 PST: No styles found at: /home/ecotrust/
+23:07:49 PST: No styles found at: /home/ecotrust/.opencpn/
+23:07:49 PST: Detected display size (horizontal): 338 mm
+23:07:49 PST: System default Language:  en_US
+23:07:49 PST: Opencpn language set to:  en_US
+23:07:49 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:07:49 PST: Creating glChartCanvas
+23:07:49 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:07:49 PST:    Warning: found incorrect chart db version: V017
+23:07:49 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:07:49 PST: Chartdb: Chart directory list follows
+23:07:49 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:07:49 PST:   Chart directory #1: /home/ecotrust/charts
+23:07:49 PST: GPS Watchdog Timeout is: 6 sec.
+23:07:49 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:07:49 PST: OpenCPN Initialized in 744 ms.
+23:07:49 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:07:49 PST: Loading navobjects from navobj.xml
+23:07:49 PST: Done loading navobjects
+23:07:49 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:07:50 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:07:50 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:07:50 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:07:50 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:07:50 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:07:50 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:07:51 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:08:49 PST: LOGBOOK:  2015-12-01 07:08:49 UTC  GPS Lat   54.31380 Lon -130.32261 COG    0.00000 SOG   0.04 kts
+23:19:10 PST: 
+
+________
+23:19:10 PST: 2015-11-30
+23:19:10 PST:  ------- Starting OpenCPN -------
+23:19:10 PST: Version 4.1.1108 Build 2015-111-08
+23:19:10 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:19:10 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:19:10 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:19:10 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:19:10 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:19:10 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+23:19:10 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+23:19:10 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:19:10 PST: No styles found at: /home/ecotrust/
+23:19:10 PST: No styles found at: /home/ecotrust/.opencpn/
+23:19:10 PST: Detected display size (horizontal): 338 mm
+23:19:10 PST: System default Language:  en_US
+23:19:10 PST: Opencpn language set to:  en_US
+23:19:10 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:19:10 PST: Creating glChartCanvas
+23:19:10 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:19:10 PST:    Warning: found incorrect chart db version: V017
+23:19:10 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:19:10 PST: Chartdb: Chart directory list follows
+23:19:10 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:19:10 PST:   Chart directory #1: /home/ecotrust/charts
+23:19:10 PST: GPS Watchdog Timeout is: 6 sec.
+23:19:10 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:19:10 PST: OpenCPN Initialized in 727 ms.
+23:19:11 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:19:11 PST: Loading navobjects from navobj.xml
+23:19:11 PST: Done loading navobjects
+23:19:11 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:19:11 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:19:11 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:19:11 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:19:11 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:19:12 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:19:12 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:19:12 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:20:11 PST: LOGBOOK:  2015-12-01 07:20:11 UTC  GPS Lat   54.31384 Lon -130.32249 COG    0.00000 SOG   0.07 kts
+23:48:01 PST: 
+
+________
+23:48:01 PST: 2015-11-30
+23:48:01 PST:  ------- Starting OpenCPN -------
+23:48:01 PST: Version 4.1.1108 Build 2015-111-08
+23:48:01 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:48:01 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:48:01 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:48:01 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:48:01 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:48:01 PST: Setting Viewpoint Lat/Lon 54.3138, -130.323
+23:48:01 PST: Setting Ownship Lat/Lon 54.3138, -130.323
+23:48:01 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:48:01 PST: No styles found at: /home/ecotrust/
+23:48:01 PST: No styles found at: /home/ecotrust/.opencpn/
+23:48:01 PST: Detected display size (horizontal): 338 mm
+23:48:01 PST: System default Language:  en_US
+23:48:01 PST: Opencpn language set to:  en_US
+23:48:01 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:48:01 PST: Creating glChartCanvas
+23:48:01 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:48:01 PST:    Warning: found incorrect chart db version: V017
+23:48:01 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:48:01 PST: Chartdb: Chart directory list follows
+23:48:01 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:48:01 PST:   Chart directory #1: /home/ecotrust/charts
+23:48:01 PST: GPS Watchdog Timeout is: 6 sec.
+23:48:01 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:48:01 PST: OpenCPN Initialized in 715 ms.
+23:48:02 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:48:02 PST: Loading navobjects from navobj.xml
+23:48:02 PST: Done loading navobjects
+23:48:02 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:48:02 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:48:02 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:02 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:02 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:02 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:03 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:03 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:39 PST: opencpn::MyFrame exiting cleanly.
+23:48:39 PST: Chart cache PlugIn purge
+23:48:39 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+23:48:39 PST: Chart cache purge
+23:48:39 PST: opencpn::MyApp starting exit.
+23:48:39 PST: LOGBOOK:  2015-12-01 07:48:39 UTC OFF: Lat   54.31387 Lon -130.32281 COG    0.00000 SOG   0.09 kts
+23:48:39 PST: opencpn::MyApp exiting cleanly...
+23:48:39 PST: 
+
+________
+23:48:39 PST: 2015-11-30
+23:48:39 PST:  ------- Starting OpenCPN -------
+23:48:39 PST: Version 4.1.1108 Build 2015-111-08
+23:48:39 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:48:39 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:48:39 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:48:39 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:48:39 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:48:39 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+23:48:39 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+23:48:39 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:48:39 PST: No styles found at: /home/ecotrust/
+23:48:39 PST: No styles found at: /home/ecotrust/.opencpn/
+23:48:39 PST: Detected display size (horizontal): 338 mm
+23:48:39 PST: System default Language:  en_US
+23:48:39 PST: Opencpn language set to:  en_US
+23:48:39 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:48:40 PST: Creating glChartCanvas
+23:48:40 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:48:40 PST:    Warning: found incorrect chart db version: V017
+23:48:40 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:48:40 PST: Chartdb: Chart directory list follows
+23:48:40 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:48:40 PST:   Chart directory #1: /home/ecotrust/charts
+23:48:40 PST: GPS Watchdog Timeout is: 6 sec.
+23:48:40 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:48:40 PST: OpenCPN Initialized in 710 ms.
+23:48:40 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:48:40 PST: Loading navobjects from navobj.xml
+23:48:40 PST: Done loading navobjects
+23:48:40 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:48:40 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:48:41 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:41 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:41 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:41 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:41 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:48:41 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:53:22 PST: 
+
+________
+23:53:22 PST: 2015-11-30
+23:53:22 PST:  ------- Starting OpenCPN -------
+23:53:22 PST: Version 4.1.1108 Build 2015-111-08
+23:53:22 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:53:22 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:53:22 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:53:22 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:53:22 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:53:22 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+23:53:22 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+23:53:22 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:53:22 PST: No styles found at: /home/ecotrust/
+23:53:22 PST: No styles found at: /home/ecotrust/.opencpn/
+23:53:22 PST: Detected display size (horizontal): 338 mm
+23:53:22 PST: System default Language:  en_US
+23:53:22 PST: Opencpn language set to:  en_US
+23:53:22 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:53:22 PST: Creating glChartCanvas
+23:53:22 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:53:22 PST:    Warning: found incorrect chart db version: V017
+23:53:22 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:53:22 PST: Chartdb: Chart directory list follows
+23:53:22 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:53:22 PST:   Chart directory #1: /home/ecotrust/charts
+23:53:22 PST: GPS Watchdog Timeout is: 6 sec.
+23:53:22 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:53:22 PST: OpenCPN Initialized in 767 ms.
+23:53:23 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:53:23 PST: Loading navobjects from navobj.xml
+23:53:23 PST: Done loading navobjects
+23:53:23 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:53:23 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:53:23 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:53:23 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:53:23 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:53:23 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:53:24 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:53:24 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:59:48 PST: 
+
+________
+23:59:48 PST: 2015-11-30
+23:59:48 PST:  ------- Starting OpenCPN -------
+23:59:48 PST: Version 4.1.1108 Build 2015-111-08
+23:59:48 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:59:48 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+23:59:48 PST: SData_Locn is /opt/opencpn/share/opencpn/
+23:59:48 PST: PrivateDataDir is /home/ecotrust/.opencpn
+23:59:48 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:59:48 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+23:59:48 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+23:59:48 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:59:48 PST: No styles found at: /home/ecotrust/
+23:59:48 PST: No styles found at: /home/ecotrust/.opencpn/
+23:59:48 PST: Detected display size (horizontal): 338 mm
+23:59:48 PST: System default Language:  en_US
+23:59:48 PST: Opencpn language set to:  en_US
+23:59:48 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+23:59:48 PST: Creating glChartCanvas
+23:59:48 PST: ChartDB Cache policy:  Application target is 482 MBytes
+23:59:48 PST:    Warning: found incorrect chart db version: V017
+23:59:48 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:59:48 PST: Chartdb: Chart directory list follows
+23:59:48 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+23:59:48 PST:   Chart directory #1: /home/ecotrust/charts
+23:59:48 PST: GPS Watchdog Timeout is: 6 sec.
+23:59:48 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+23:59:48 PST: OpenCPN Initialized in 724 ms.
+23:59:49 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+23:59:49 PST: Loading navobjects from navobj.xml
+23:59:49 PST: Done loading navobjects
+23:59:49 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+23:59:49 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+23:59:49 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:59:49 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+23:59:49 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+23:59:49 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+23:59:50 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+23:59:50 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:00:00 PST: LOGBOOK:  2015-12-01 08:00:00 UTC  GPS Lat   54.31382 Lon -130.32275 COG  297.20000 SOG   0.38 kts
+00:00:02 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+00:00:03 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+00:00:04 PST: 
+
+________
+00:00:04 PST: 2015-12-01
+00:00:04 PST:  ------- Starting OpenCPN -------
+00:00:04 PST: Version 4.1.1108 Build 2015-111-08
+00:00:04 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:00:04 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:00:04 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:00:04 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:00:04 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:00:04 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+00:00:04 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:00:04 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:00:04 PST: No styles found at: /home/ecotrust/
+00:00:04 PST: No styles found at: /home/ecotrust/.opencpn/
+00:00:04 PST: Detected display size (horizontal): 338 mm
+00:00:04 PST: System default Language:  en_US
+00:00:04 PST: Opencpn language set to:  en_US
+00:00:04 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:00:04 PST: Creating glChartCanvas
+00:00:05 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:00:05 PST:    Warning: found incorrect chart db version: V017
+00:00:05 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:00:05 PST: Chartdb: Chart directory list follows
+00:00:05 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:00:05 PST:   Chart directory #1: /home/ecotrust/charts
+00:00:05 PST: GPS Watchdog Timeout is: 6 sec.
+00:00:05 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:00:05 PST: OpenCPN Initialized in 710 ms.
+00:00:05 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:00:05 PST: Loading navobjects from navobj.xml
+00:00:05 PST: Done loading navobjects
+00:00:05 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:00:05 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:00:05 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:00:05 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:00:06 PST: LOGBOOK:  2015-12-01 08:00:06 UTC  DR Lat   54.31390 Lon -130.32280
+00:00:06 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:00:06 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:00:06 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:00:06 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:05:37 PST: 
+
+________
+00:05:37 PST: 2015-12-01
+00:05:37 PST:  ------- Starting OpenCPN -------
+00:05:37 PST: Version 4.1.1108 Build 2015-111-08
+00:05:37 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:05:37 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:05:37 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:05:37 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:05:37 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:05:37 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+00:05:37 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:05:37 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:05:37 PST: No styles found at: /home/ecotrust/
+00:05:37 PST: No styles found at: /home/ecotrust/.opencpn/
+00:05:37 PST: Detected display size (horizontal): 338 mm
+00:05:37 PST: System default Language:  en_US
+00:05:37 PST: Opencpn language set to:  en_US
+00:05:37 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:05:37 PST: Creating glChartCanvas
+00:05:37 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:05:37 PST:    Warning: found incorrect chart db version: V017
+00:05:37 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:05:37 PST: Chartdb: Chart directory list follows
+00:05:37 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:05:37 PST:   Chart directory #1: /home/ecotrust/charts
+00:05:37 PST: GPS Watchdog Timeout is: 6 sec.
+00:05:37 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:05:37 PST: OpenCPN Initialized in 752 ms.
+00:05:38 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:05:38 PST: Loading navobjects from navobj.xml
+00:05:38 PST: Done loading navobjects
+00:05:38 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:05:38 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:05:38 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:05:38 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:05:38 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:05:39 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:05:39 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:05:39 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:06:38 PST: LOGBOOK:  2015-12-01 08:06:38 UTC  GPS Lat   54.31382 Lon -130.32266 COG    0.00000 SOG   0.04 kts
+00:30:00 PST: LOGBOOK:  2015-12-01 08:30:00 UTC  GPS Lat   54.31387 Lon -130.32278 COG    0.00000 SOG   0.13 kts
+00:40:04 PST: 
+
+________
+00:40:04 PST: 2015-12-01
+00:40:04 PST:  ------- Starting OpenCPN -------
+00:40:04 PST: Version 4.1.1108 Build 2015-111-08
+00:40:04 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:40:04 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:40:04 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:40:04 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:40:04 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:40:04 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+00:40:04 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:40:04 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:40:04 PST: No styles found at: /home/ecotrust/
+00:40:04 PST: No styles found at: /home/ecotrust/.opencpn/
+00:40:04 PST: Detected display size (horizontal): 338 mm
+00:40:04 PST: System default Language:  en_US
+00:40:04 PST: Opencpn language set to:  en_US
+00:40:04 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:40:04 PST: Creating glChartCanvas
+00:40:05 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:40:05 PST:    Warning: found incorrect chart db version: V017
+00:40:05 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:40:05 PST: Chartdb: Chart directory list follows
+00:40:05 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:40:05 PST:   Chart directory #1: /home/ecotrust/charts
+00:40:05 PST: GPS Watchdog Timeout is: 6 sec.
+00:40:05 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:40:05 PST: OpenCPN Initialized in 743 ms.
+00:40:05 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:40:05 PST: Loading navobjects from navobj.xml
+00:40:05 PST: Done loading navobjects
+00:40:05 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:40:05 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:05 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:40:05 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:06 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:06 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:06 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:07 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:12 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+00:40:12 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+00:40:13 PST: 
+
+________
+00:40:13 PST: 2015-12-01
+00:40:13 PST:  ------- Starting OpenCPN -------
+00:40:13 PST: Version 4.1.1108 Build 2015-111-08
+00:40:13 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:40:13 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:40:13 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:40:13 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:40:13 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:40:13 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+00:40:13 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:40:13 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:40:13 PST: No styles found at: /home/ecotrust/
+00:40:13 PST: No styles found at: /home/ecotrust/.opencpn/
+00:40:13 PST: Detected display size (horizontal): 338 mm
+00:40:13 PST: System default Language:  en_US
+00:40:13 PST: Opencpn language set to:  en_US
+00:40:13 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:40:14 PST: Creating glChartCanvas
+00:40:14 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:40:14 PST:    Warning: found incorrect chart db version: V017
+00:40:14 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:40:14 PST: Chartdb: Chart directory list follows
+00:40:14 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:40:14 PST:   Chart directory #1: /home/ecotrust/charts
+00:40:14 PST: GPS Watchdog Timeout is: 6 sec.
+00:40:14 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:40:14 PST: OpenCPN Initialized in 726 ms.
+00:40:14 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:40:14 PST: Loading navobjects from navobj.xml
+00:40:14 PST: Done loading navobjects
+00:40:14 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:40:14 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:40:15 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:15 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:15 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:15 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:15 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:40:16 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:41:10 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+00:41:14 PST: LOGBOOK:  2015-12-01 08:41:14 UTC  GPS Lat   54.31386 Lon -130.32283 COG    0.00000 SOG   0.11 kts
+00:41:14 PST: Warning: Color not found CHDRD
+00:45:00 PST: 
+
+________
+00:45:00 PST: 2015-12-01
+00:45:00 PST:  ------- Starting OpenCPN -------
+00:45:00 PST: Version 4.1.1108 Build 2015-111-08
+00:45:00 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:45:00 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:45:00 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:45:00 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:45:00 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:45:00 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+00:45:00 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:45:00 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:45:00 PST: No styles found at: /home/ecotrust/
+00:45:00 PST: No styles found at: /home/ecotrust/.opencpn/
+00:45:00 PST: Detected display size (horizontal): 338 mm
+00:45:00 PST: System default Language:  en_US
+00:45:00 PST: Opencpn language set to:  en_US
+00:45:00 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:45:00 PST: Creating glChartCanvas
+00:45:00 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:45:00 PST:    Warning: found incorrect chart db version: V017
+00:45:00 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:45:00 PST: Chartdb: Chart directory list follows
+00:45:00 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:45:00 PST:   Chart directory #1: /home/ecotrust/charts
+00:45:00 PST: GPS Watchdog Timeout is: 6 sec.
+00:45:00 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:45:01 PST: OpenCPN Initialized in 742 ms.
+00:45:01 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:45:01 PST: Loading navobjects from navobj.xml
+00:45:01 PST: Done loading navobjects
+00:45:01 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:45:01 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:45:01 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:45:01 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:45:01 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:45:01 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:45:02 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:45:02 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:45:55 PST: Warning: Color not found CHDRD
+00:46:01 PST: LOGBOOK:  2015-12-01 08:46:01 UTC  GPS Lat   54.31386 Lon -130.32285 COG    0.00000 SOG   0.10 kts
+00:46:23 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+00:48:03 PST: 
+
+________
+00:48:03 PST: 2015-12-01
+00:48:03 PST:  ------- Starting OpenCPN -------
+00:48:03 PST: Version 4.1.1108 Build 2015-111-08
+00:48:03 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:48:03 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:48:03 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:48:03 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:48:03 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:48:03 PST: Setting Viewpoint Lat/Lon 54.3139, -130.323
+00:48:03 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:48:03 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:48:03 PST: No styles found at: /home/ecotrust/
+00:48:03 PST: No styles found at: /home/ecotrust/.opencpn/
+00:48:03 PST: Detected display size (horizontal): 338 mm
+00:48:03 PST: System default Language:  en_US
+00:48:03 PST: Opencpn language set to:  en_US
+00:48:03 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:48:03 PST: Creating glChartCanvas
+00:48:04 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:48:04 PST:    Warning: found incorrect chart db version: V017
+00:48:04 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:48:04 PST: Chartdb: Chart directory list follows
+00:48:04 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:48:04 PST:   Chart directory #1: /home/ecotrust/charts
+00:48:04 PST: GPS Watchdog Timeout is: 6 sec.
+00:48:04 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:48:04 PST: OpenCPN Initialized in 747 ms.
+00:48:04 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:48:04 PST: Loading navobjects from navobj.xml
+00:48:04 PST: Done loading navobjects
+00:48:04 PST: Applying NavObjChanges
+00:48:04 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:48:04 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:48:04 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:48:04 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:48:04 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:48:04 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:48:05 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:48:06 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:04 PST: LOGBOOK:  2015-12-01 08:49:04 UTC  GPS Lat   54.31386 Lon -130.32276 COG    0.00000 SOG   0.09 kts
+00:49:17 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+00:49:22 PST: opencpn::MyFrame exiting cleanly.
+00:49:22 PST: Chart cache PlugIn purge
+00:49:22 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+00:49:22 PST: Chart cache purge
+00:49:22 PST: opencpn::MyApp starting exit.
+00:49:22 PST: LOGBOOK:  2015-12-01 08:49:22 UTC OFF: Lat   54.31387 Lon -130.32275 COG    0.00000 SOG   0.20 kts
+00:49:22 PST: opencpn::MyApp exiting cleanly...
+00:49:22 PST: 
+
+________
+00:49:22 PST: 2015-12-01
+00:49:22 PST:  ------- Starting OpenCPN -------
+00:49:22 PST: Version 4.1.1108 Build 2015-111-08
+00:49:22 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:49:22 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:49:22 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:49:22 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:49:22 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:49:22 PST: Setting Viewpoint Lat/Lon 54.3565, -131.783
+00:49:22 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:49:22 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:49:22 PST: No styles found at: /home/ecotrust/
+00:49:22 PST: No styles found at: /home/ecotrust/.opencpn/
+00:49:22 PST: Detected display size (horizontal): 338 mm
+00:49:22 PST: System default Language:  en_US
+00:49:22 PST: Opencpn language set to:  en_US
+00:49:22 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:49:22 PST: Creating glChartCanvas
+00:49:23 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:49:23 PST:    Warning: found incorrect chart db version: V017
+00:49:23 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:49:23 PST: Chartdb: Chart directory list follows
+00:49:23 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:49:23 PST:   Chart directory #1: /home/ecotrust/charts
+00:49:23 PST: GPS Watchdog Timeout is: 6 sec.
+00:49:23 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+00:49:23 PST: OpenCPN Initialized in 815 ms.
+00:49:23 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:49:23 PST: Loading navobjects from navobj.xml
+00:49:23 PST: Done loading navobjects
+00:49:23 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:49:24 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:24 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:49:24 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:24 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:24 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:24 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:25 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:49:32 PST: Warning: Color not found CHDRD
+00:50:23 PST: LOGBOOK:  2015-12-01 08:50:23 UTC  GPS Lat   54.31387 Lon -130.32277 COG    0.00000 SOG   0.05 kts
+00:51:25 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+00:51:39 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:52:56 PST: opencpn::MyFrame exiting cleanly.
+00:52:57 PST: Chart cache PlugIn purge
+00:52:57 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+00:52:57 PST: Chart cache purge
+00:52:57 PST: opencpn::MyApp starting exit.
+00:52:57 PST: LOGBOOK:  2015-12-01 08:52:57 UTC OFF: Lat   54.31385 Lon -130.32278 COG    0.00000 SOG   0.11 kts
+00:52:57 PST: opencpn::MyApp exiting cleanly...
+00:52:57 PST: 
+
+________
+00:52:57 PST: 2015-12-01
+00:52:57 PST:  ------- Starting OpenCPN -------
+00:52:57 PST: Version 4.1.1108 Build 2015-111-08
+00:52:57 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:52:57 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:52:57 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:52:57 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:52:57 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:52:57 PST: Setting Viewpoint Lat/Lon 54.2128, -131.617
+00:52:57 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+00:52:57 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:52:57 PST: No styles found at: /home/ecotrust/
+00:52:57 PST: No styles found at: /home/ecotrust/.opencpn/
+00:52:57 PST: Detected display size (horizontal): 338 mm
+00:52:57 PST: System default Language:  en_US
+00:52:57 PST: Opencpn language set to:  en_US
+00:52:57 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:52:57 PST: Creating glChartCanvas
+00:52:58 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:52:58 PST:    Warning: found incorrect chart db version: V017
+00:52:58 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:52:58 PST: Chartdb: Chart directory list follows
+00:52:58 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:52:58 PST:   Chart directory #1: /home/ecotrust/charts
+00:52:58 PST: GPS Watchdog Timeout is: 6 sec.
+00:52:58 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+00:52:58 PST: Warning: Color not found CHDRD
+00:52:58 PST: OpenCPN Initialized in 1164 ms.
+00:52:59 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:52:59 PST: Loading navobjects from navobj.xml
+00:53:00 PST: Done loading navobjects
+00:53:00 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:53:01 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:53:02 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+00:53:02 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:53:02 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+00:53:03 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+00:53:03 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+00:53:03 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+00:53:04 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+00:53:57 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:53:58 PST: LOGBOOK:  2015-12-01 08:53:58 UTC  GPS Lat   54.31386 Lon -130.32277 COG  102.10000 SOG   0.35 kts
+00:54:16 PST: Chart cache purge
+00:54:16 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:54:18 PST: Chart cache purge
+00:54:18 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+00:54:23 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+01:00:01 PST: 
+
+________
+01:00:01 PST: 2015-12-01
+01:00:01 PST:  ------- Starting OpenCPN -------
+01:00:01 PST: Version 4.1.1108 Build 2015-111-08
+01:00:01 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+01:00:01 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+01:00:01 PST: SData_Locn is /opt/opencpn/share/opencpn/
+01:00:01 PST: PrivateDataDir is /home/ecotrust/.opencpn
+01:00:01 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+01:00:01 PST: Setting Viewpoint Lat/Lon 54.2128, -131.617
+01:00:01 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+01:00:01 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+01:00:01 PST: No styles found at: /home/ecotrust/
+01:00:01 PST: No styles found at: /home/ecotrust/.opencpn/
+01:00:01 PST: Detected display size (horizontal): 338 mm
+01:00:01 PST: System default Language:  en_US
+01:00:01 PST: Opencpn language set to:  en_US
+01:00:01 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+01:00:01 PST: Creating glChartCanvas
+01:00:01 PST: ChartDB Cache policy:  Application target is 482 MBytes
+01:00:01 PST:    Warning: found incorrect chart db version: V017
+01:00:01 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+01:00:01 PST: Chartdb: Chart directory list follows
+01:00:01 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+01:00:01 PST:   Chart directory #1: /home/ecotrust/charts
+01:00:01 PST: GPS Watchdog Timeout is: 6 sec.
+01:00:01 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+01:00:02 PST: Warning: Color not found CHDRD
+01:00:02 PST: OpenCPN Initialized in 1211 ms.
+01:00:02 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+01:00:02 PST: Loading navobjects from navobj.xml
+01:00:03 PST: Done loading navobjects
+01:00:03 PST: LOGBOOK:  2015-12-01 09:00:03 UTC  DR Lat   54.31390 Lon -130.32280
+01:00:03 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+01:00:04 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+01:00:05 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+01:00:05 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+01:00:05 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+01:00:06 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+01:00:06 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+01:00:06 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+01:00:07 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+01:00:45 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+01:04:57 PST: 
+
+________
+01:04:57 PST: 2015-12-01
+01:04:57 PST:  ------- Starting OpenCPN -------
+01:04:57 PST: Version 4.1.1108 Build 2015-111-08
+01:04:57 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+01:04:57 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+01:04:57 PST: SData_Locn is /opt/opencpn/share/opencpn/
+01:04:57 PST: PrivateDataDir is /home/ecotrust/.opencpn
+01:04:57 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+01:04:57 PST: Setting Viewpoint Lat/Lon 54.2128, -131.617
+01:04:57 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+01:04:57 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+01:04:57 PST: No styles found at: /home/ecotrust/
+01:04:57 PST: No styles found at: /home/ecotrust/.opencpn/
+01:04:57 PST: Detected display size (horizontal): 338 mm
+01:04:57 PST: System default Language:  en_US
+01:04:57 PST: Opencpn language set to:  en_US
+01:04:57 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+01:04:57 PST: Creating glChartCanvas
+01:04:58 PST: ChartDB Cache policy:  Application target is 482 MBytes
+01:04:58 PST:    Warning: found incorrect chart db version: V017
+01:04:58 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+01:04:58 PST: Chartdb: Chart directory list follows
+01:04:58 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+01:04:58 PST:   Chart directory #1: /home/ecotrust/charts
+01:04:58 PST: GPS Watchdog Timeout is: 6 sec.
+01:04:58 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+01:04:58 PST: Warning: Color not found CHDRD
+01:04:58 PST: OpenCPN Initialized in 1175 ms.
+01:04:59 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+01:04:59 PST: Loading navobjects from navobj.xml
+01:05:00 PST: Done loading navobjects
+01:05:00 PST: Applying NavObjChanges
+01:05:01 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+01:05:03 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+01:05:04 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+01:05:04 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+01:05:04 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+01:05:04 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+01:05:04 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+01:05:05 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+01:05:05 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+01:05:58 PST: LOGBOOK:  2015-12-01 09:05:58 UTC  GPS Lat   54.31389 Lon -130.32279 COG    0.00000 SOG   0.15 kts
+01:06:05 PST: opencpn::MyFrame exiting cleanly.
+01:06:06 PST: Chart cache PlugIn purge
+01:06:06 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+01:06:06 PST: Chart cache purge
+01:06:06 PST: opencpn::MyApp starting exit.
+01:06:06 PST: LOGBOOK:  2015-12-01 09:06:06 UTC OFF: Lat   54.31389 Lon -130.32279 COG    0.00000 SOG   0.05 kts
+01:06:06 PST: opencpn::MyApp exiting cleanly...
+01:06:06 PST: 
+
+________
+01:06:06 PST: 2015-12-01
+01:06:06 PST:  ------- Starting OpenCPN -------
+01:06:06 PST: Version 4.1.1108 Build 2015-111-08
+01:06:06 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+01:06:06 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+01:06:06 PST: SData_Locn is /opt/opencpn/share/opencpn/
+01:06:06 PST: PrivateDataDir is /home/ecotrust/.opencpn
+01:06:06 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+01:06:06 PST: Setting Viewpoint Lat/Lon 53.9917, -132.619
+01:06:06 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+01:06:06 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+01:06:06 PST: No styles found at: /home/ecotrust/
+01:06:06 PST: No styles found at: /home/ecotrust/.opencpn/
+01:06:06 PST: Detected display size (horizontal): 338 mm
+01:06:06 PST: System default Language:  en_US
+01:06:06 PST: Opencpn language set to:  en_US
+01:06:06 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+01:06:06 PST: Creating glChartCanvas
+01:06:07 PST: ChartDB Cache policy:  Application target is 482 MBytes
+01:06:07 PST:    Warning: found incorrect chart db version: V017
+01:06:07 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+01:06:07 PST: Chartdb: Chart directory list follows
+01:06:07 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+01:06:07 PST:   Chart directory #1: /home/ecotrust/charts
+01:06:07 PST: GPS Watchdog Timeout is: 6 sec.
+01:06:07 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+01:06:07 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+01:06:07 PST: Warning: Color not found CHDRD
+01:06:07 PST: OpenCPN Initialized in 869 ms.
+01:06:07 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+01:06:07 PST: Loading navobjects from navobj.xml
+01:06:09 PST: Done loading navobjects
+01:06:09 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+01:06:09 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+01:06:10 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+01:06:10 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+01:06:10 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+01:06:11 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+01:06:11 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+01:06:11 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+01:06:12 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+01:06:36 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+01:07:07 PST: LOGBOOK:  2015-12-01 09:07:07 UTC  GPS Lat   54.31389 Lon -130.32279 COG    0.00000 SOG   0.04 kts
+01:30:00 PST: LOGBOOK:  2015-12-01 09:30:00 UTC  GPS Lat   54.31388 Lon -130.32278 COG    0.00000 SOG   0.11 kts
+02:00:00 PST: LOGBOOK:  2015-12-01 10:00:00 UTC  GPS Lat   54.31372 Lon -130.32271 COG    0.00000 SOG   0.17 kts
+02:30:00 PST: LOGBOOK:  2015-12-01 10:30:00 UTC  GPS Lat   54.31384 Lon -130.32278 COG    0.00000 SOG   0.09 kts
+03:00:00 PST: LOGBOOK:  2015-12-01 11:00:00 UTC  GPS Lat   54.31384 Lon -130.32274 COG    0.00000 SOG   0.09 kts
+03:30:00 PST: LOGBOOK:  2015-12-01 11:30:00 UTC  GPS Lat   54.31389 Lon -130.32292 COG    0.00000 SOG   0.14 kts
+04:00:00 PST: LOGBOOK:  2015-12-01 12:00:00 UTC  GPS Lat   54.31390 Lon -130.32296 COG  173.50000 SOG   0.35 kts
+04:30:00 PST: LOGBOOK:  2015-12-01 12:30:00 UTC  GPS Lat   54.31390 Lon -130.32273 COG    0.00000 SOG   0.05 kts
+05:00:00 PST: LOGBOOK:  2015-12-01 13:00:00 UTC  GPS Lat   54.31382 Lon -130.32258 COG    0.00000 SOG   0.01 kts
+05:30:00 PST: LOGBOOK:  2015-12-01 13:30:00 UTC  GPS Lat   54.31377 Lon -130.32265 COG    0.00000 SOG   0.09 kts
+06:00:00 PST: LOGBOOK:  2015-12-01 14:00:00 UTC  GPS Lat   54.31383 Lon -130.32282 COG    0.00000 SOG   0.15 kts
+06:30:00 PST: LOGBOOK:  2015-12-01 14:30:00 UTC  GPS Lat   54.31387 Lon -130.32278 COG    0.00000 SOG   0.10 kts
+07:00:00 PST: LOGBOOK:  2015-12-01 15:00:00 UTC  GPS Lat   54.31387 Lon -130.32279 COG  213.70000 SOG   0.31 kts
+07:30:00 PST: LOGBOOK:  2015-12-01 15:30:00 UTC  GPS Lat   54.31387 Lon -130.32292 COG    0.00000 SOG   0.03 kts
+08:00:00 PST: LOGBOOK:  2015-12-01 16:00:00 UTC  GPS Lat   54.31386 Lon -130.32273 COG    0.00000 SOG   0.07 kts
+08:30:00 PST: LOGBOOK:  2015-12-01 16:30:00 UTC  GPS Lat   54.31386 Lon -130.32275 COG    0.00000 SOG   0.16 kts
+09:00:00 PST: LOGBOOK:  2015-12-01 17:00:00 UTC  GPS Lat   54.31389 Lon -130.32294 COG    0.00000 SOG   0.12 kts
+09:14:21 PST: Chart cache purge
+09:14:21 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+09:14:28 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+09:21:36 PST: opencpn::MyFrame exiting cleanly.
+09:21:36 PST: Chart cache PlugIn purge
+09:21:36 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+09:21:36 PST: Chart cache purge
+09:21:36 PST: opencpn::MyApp starting exit.
+09:21:36 PST: LOGBOOK:  2015-12-01 17:21:36 UTC OFF: Lat   54.31392 Lon -130.32282 COG    0.00000 SOG   0.14 kts
+09:21:36 PST: opencpn::MyApp exiting cleanly...
+09:21:36 PST: 
+
+________
+09:21:36 PST: 2015-12-01
+09:21:36 PST:  ------- Starting OpenCPN -------
+09:21:36 PST: Version 4.1.1108 Build 2015-111-08
+09:21:36 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+09:21:36 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+09:21:36 PST: SData_Locn is /opt/opencpn/share/opencpn/
+09:21:36 PST: PrivateDataDir is /home/ecotrust/.opencpn
+09:21:36 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+09:21:36 PST: Setting Viewpoint Lat/Lon 54.3146, -130.323
+09:21:36 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+09:21:36 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+09:21:36 PST: No styles found at: /home/ecotrust/
+09:21:36 PST: No styles found at: /home/ecotrust/.opencpn/
+09:21:36 PST: Detected display size (horizontal): 338 mm
+09:21:36 PST: System default Language:  en_US
+09:21:36 PST: Opencpn language set to:  en_US
+09:21:36 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+09:21:36 PST: Creating glChartCanvas
+09:21:37 PST: ChartDB Cache policy:  Application target is 482 MBytes
+09:21:37 PST:    Warning: found incorrect chart db version: V017
+09:21:37 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+09:21:37 PST: Chartdb: Chart directory list follows
+09:21:37 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+09:21:37 PST:   Chart directory #1: /home/ecotrust/charts
+09:21:37 PST: GPS Watchdog Timeout is: 6 sec.
+09:21:37 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+09:21:37 PST: Warning: Color not found CHDRD
+09:21:37 PST: OpenCPN Initialized in 1101 ms.
+09:21:38 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+09:21:38 PST: Loading navobjects from navobj.xml
+09:21:39 PST: Done loading navobjects
+09:21:39 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+09:21:40 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+09:21:41 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+09:21:41 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+09:21:41 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+09:21:41 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+09:21:41 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+09:21:42 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+09:21:42 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+09:22:41 PST: LOGBOOK:  2015-12-01 17:22:41 UTC  GPS Lat   54.31392 Lon -130.32280 COG    0.00000 SOG   0.04 kts
+09:30:00 PST: LOGBOOK:  2015-12-01 17:30:00 UTC  GPS Lat   54.31391 Lon -130.32288 COG    0.00000 SOG   0.04 kts
+10:00:00 PST: LOGBOOK:  2015-12-01 18:00:00 UTC  GPS Lat   54.31391 Lon -130.32286 COG    0.00000 SOG   0.09 kts
+10:30:00 PST: LOGBOOK:  2015-12-01 18:30:00 UTC  GPS Lat   54.31386 Lon -130.32278 COG    0.00000 SOG   0.06 kts
+11:08:36 PST: LOGBOOK:  2015-12-01 19:08:36 UTC  GPS Lat   54.31399 Lon -130.32298 COG    0.00000 SOG   0.09 kts
+11:30:00 PST: LOGBOOK:  2015-12-01 19:30:00 UTC  GPS Lat   54.31387 Lon -130.32274 COG    0.00000 SOG   0.11 kts
+12:00:00 PST: LOGBOOK:  2015-12-01 20:00:00 UTC  GPS Lat   54.31389 Lon -130.32292 COG    0.00000 SOG   0.12 kts
+12:30:00 PST: LOGBOOK:  2015-12-01 20:30:00 UTC  GPS Lat   54.31388 Lon -130.32273 COG    0.00000 SOG   0.14 kts
+13:03:37 PST: 
+
+________
+13:03:37 PST: 2015-12-01
+13:03:37 PST:  ------- Starting OpenCPN -------
+13:03:37 PST: Version 4.1.1108 Build 2015-111-08
+13:03:37 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+13:03:37 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+13:03:37 PST: SData_Locn is /opt/opencpn/share/opencpn/
+13:03:37 PST: PrivateDataDir is /home/ecotrust/.opencpn
+13:03:37 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+13:03:37 PST: Setting Viewpoint Lat/Lon 54.3146, -130.323
+13:03:37 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+13:03:37 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+13:03:37 PST: No styles found at: /home/ecotrust/
+13:03:37 PST: No styles found at: /home/ecotrust/.opencpn/
+13:03:37 PST: Detected display size (horizontal): 338 mm
+13:03:37 PST: System default Language:  en_US
+13:03:37 PST: Opencpn language set to:  en_US
+13:03:37 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+13:03:37 PST: Creating glChartCanvas
+13:03:38 PST: ChartDB Cache policy:  Application target is 482 MBytes
+13:03:38 PST:    Warning: found incorrect chart db version: V017
+13:03:38 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+13:03:38 PST: Chartdb: Chart directory list follows
+13:03:38 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+13:03:38 PST:   Chart directory #1: /home/ecotrust/charts
+13:03:38 PST: GPS Watchdog Timeout is: 6 sec.
+13:03:38 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+13:03:38 PST: Warning: Color not found CHDRD
+13:03:38 PST: OpenCPN Initialized in 1151 ms.
+13:03:39 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+13:03:39 PST: Loading navobjects from navobj.xml
+13:03:40 PST: Done loading navobjects
+13:03:40 PST: Applying NavObjChanges
+13:03:41 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+13:03:41 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+13:03:41 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+13:03:42 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+13:03:42 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+13:03:42 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+13:03:42 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+13:03:42 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+13:03:42 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+13:04:38 PST: LOGBOOK:  2015-12-01 21:04:38 UTC  GPS Lat   54.31389 Lon -130.32261 COG  111.20000 SOG   0.22 kts
+13:30:00 PST: LOGBOOK:  2015-12-01 21:30:00 UTC  GPS Lat   54.31377 Lon -130.32273 COG    0.00000 SOG   0.11 kts
+14:00:00 PST: LOGBOOK:  2015-12-01 22:00:00 UTC  GPS Lat   54.31435 Lon -130.32362 COG    0.00000 SOG   0.05 kts
+14:11:43 PST: 
+
+________
+14:11:43 PST: 2015-12-01
+14:11:43 PST:  ------- Starting OpenCPN -------
+14:11:43 PST: Version 4.1.1108 Build 2015-111-08
+14:11:43 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+14:11:43 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+14:11:43 PST: SData_Locn is /opt/opencpn/share/opencpn/
+14:11:43 PST: PrivateDataDir is /home/ecotrust/.opencpn
+14:11:43 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+14:11:43 PST: Setting Viewpoint Lat/Lon 54.3146, -130.323
+14:11:43 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+14:11:43 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+14:11:43 PST: No styles found at: /home/ecotrust/
+14:11:43 PST: No styles found at: /home/ecotrust/.opencpn/
+14:11:44 PST: Detected display size (horizontal): 338 mm
+14:11:44 PST: System default Language:  en_US
+14:11:44 PST: Opencpn language set to:  en_US
+14:11:44 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+14:11:44 PST: Creating glChartCanvas
+14:11:44 PST: ChartDB Cache policy:  Application target is 482 MBytes
+14:11:44 PST:    Warning: found incorrect chart db version: V017
+14:11:44 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+14:11:44 PST: Chartdb: Chart directory list follows
+14:11:44 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+14:11:44 PST:   Chart directory #1: /home/ecotrust/charts
+14:11:44 PST: GPS Watchdog Timeout is: 6 sec.
+14:11:44 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+14:11:44 PST: Warning: Color not found CHDRD
+14:11:45 PST: OpenCPN Initialized in 1175 ms.
+14:11:45 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+14:11:45 PST: Loading navobjects from navobj.xml
+14:11:46 PST: Done loading navobjects
+14:11:46 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+14:11:47 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+14:11:48 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+14:11:48 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+14:11:48 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+14:11:49 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+14:11:49 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+14:11:49 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+14:11:50 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+14:12:07 PST: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+14:12:07 PST: Loading World Chart Q=0 in 0 ms.
+14:12:07 PST: GSHHS World chart files have wrong version. Found 46528416, expected 210-220.
+14:12:07 PST: Loading World Chart Q=0 in 0 ms.
+14:12:09 PST: Loading World Chart Q=0 in 0 ms.
+14:12:12 PST: Loading World Chart Q=0 in 0 ms.
+14:12:14 PST: Loading World Chart Q=0 in 0 ms.
+14:12:16 PST: Loading World Chart Q=0 in 0 ms.
+14:12:18 PST: Loading World Chart Q=0 in 0 ms.
+14:12:18 PST:    ***GPS Watchdog timeout at Lat:54.3138   Lon: -130.323
+14:12:20 PST: Loading World Chart Q=0 in 0 ms.
+14:12:22 PST: Loading World Chart Q=0 in 0 ms.
+14:12:24 PST: Loading World Chart Q=0 in 0 ms.
+14:12:26 PST: Loading World Chart Q=0 in 0 ms.
+14:12:29 PST: Loading World Chart Q=0 in 0 ms.
+14:12:44 PST: LOGBOOK:  2015-12-01 22:12:44 UTC  GPS Lat   54.31241 Lon -130.32272 COG  176.70000 SOG   4.48 kts
+14:30:00 PST: LOGBOOK:  2015-12-01 22:30:00 UTC  GPS Lat   54.31377 Lon -130.32289 COG  169.20000 SOG   0.23 kts
+14:33:34 PST: 
+
+________
+14:33:34 PST: 2015-12-01
+14:33:34 PST:  ------- Starting OpenCPN -------
+14:33:34 PST: Version 4.1.1108 Build 2015-111-08
+14:33:34 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+14:33:34 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+14:33:34 PST: SData_Locn is /opt/opencpn/share/opencpn/
+14:33:34 PST: PrivateDataDir is /home/ecotrust/.opencpn
+14:33:34 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+14:33:34 PST: Setting Viewpoint Lat/Lon 54.3146, -130.323
+14:33:34 PST: Setting Ownship Lat/Lon 54.3139, -130.323
+14:33:34 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+14:33:34 PST: No styles found at: /home/ecotrust/
+14:33:34 PST: No styles found at: /home/ecotrust/.opencpn/
+14:33:34 PST: Detected display size (horizontal): 338 mm
+14:33:34 PST: System default Language:  en_US
+14:33:34 PST: Opencpn language set to:  en_US
+14:33:34 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+14:33:34 PST: Creating glChartCanvas
+14:33:34 PST: ChartDB Cache policy:  Application target is 482 MBytes
+14:33:34 PST:    Warning: found incorrect chart db version: V017
+14:33:34 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+14:33:34 PST: Chartdb: Chart directory list follows
+14:33:34 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+14:33:34 PST:   Chart directory #1: /home/ecotrust/charts
+14:33:34 PST: GPS Watchdog Timeout is: 6 sec.
+14:33:34 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+14:33:35 PST: Warning: Color not found CHDRD
+14:33:35 PST: OpenCPN Initialized in 1137 ms.
+14:33:35 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+14:33:35 PST: Loading navobjects from navobj.xml
+14:33:36 PST: Done loading navobjects
+14:33:36 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+14:33:37 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+14:33:38 PST:    ***GPS Watchdog timeout at Lat:54.3139   Lon: -130.323
+14:33:38 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+14:33:38 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+14:33:39 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+14:33:39 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+14:33:39 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+14:33:40 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+14:34:35 PST: LOGBOOK:  2015-12-01 22:34:35 UTC  GPS Lat   54.31379 Lon -130.32289 COG    0.00000 SOG   0.14 kts
+15:19:29 PST: LOGBOOK:  2015-12-01 23:19:29 UTC  GPS Lat   54.31384 Lon -130.32280 COG  114.60000 SOG   0.48 kts
+15:30:00 PST: LOGBOOK:  2015-12-01 23:30:00 UTC  GPS Lat   54.31391 Lon -130.32267 COG    0.00000 SOG   0.04 kts
+15:52:37 PST: Changing NMEA Datasource for GNGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+15:54:29 PST: opencpn::MyFrame exiting cleanly.
+15:54:30 PST: Chart cache PlugIn purge
+15:54:30 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+15:54:30 PST: Chart cache purge
+15:54:30 PST: opencpn::MyApp starting exit.
+15:54:30 PST: LOGBOOK:  2015-12-01 23:54:30 UTC OFF: Lat   54.31398 Lon -130.32283 COG  354.60000 SOG   0.81 kts
+15:54:30 PST: opencpn::MyApp exiting cleanly...
+15:54:30 PST: 
+
+________
+15:54:30 PST: 2015-12-01
+15:54:30 PST:  ------- Starting OpenCPN -------
+15:54:30 PST: Version 4.1.1108 Build 2015-111-08
+15:54:30 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+15:54:30 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+15:54:30 PST: SData_Locn is /opt/opencpn/share/opencpn/
+15:54:30 PST: PrivateDataDir is /home/ecotrust/.opencpn
+15:54:30 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+15:54:30 PST: Setting Viewpoint Lat/Lon 54.308, -130.313
+15:54:30 PST: Setting Ownship Lat/Lon 54.314, -130.323
+15:54:30 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+15:54:30 PST: No styles found at: /home/ecotrust/
+15:54:30 PST: No styles found at: /home/ecotrust/.opencpn/
+15:54:30 PST: Detected display size (horizontal): 338 mm
+15:54:30 PST: System default Language:  en_US
+15:54:30 PST: Opencpn language set to:  en_US
+15:54:30 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+15:54:30 PST: Creating glChartCanvas
+15:54:31 PST: ChartDB Cache policy:  Application target is 482 MBytes
+15:54:31 PST:    Warning: found incorrect chart db version: V017
+15:54:31 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+15:54:31 PST: Chartdb: Chart directory list follows
+15:54:31 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+15:54:31 PST:   Chart directory #1: /home/ecotrust/charts
+15:54:31 PST: GPS Watchdog Timeout is: 6 sec.
+15:54:31 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+15:54:31 PST: Warning: Color not found CHDRD
+15:54:31 PST: OpenCPN Initialized in 1210 ms.
+15:54:32 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+15:54:32 PST: Loading navobjects from navobj.xml
+15:54:34 PST: Done loading navobjects
+15:54:34 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+15:54:34 PST:    ***GPS Watchdog timeout at Lat:54.314   Lon: -130.323
+15:54:34 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+15:54:35 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+15:54:35 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+15:54:35 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+15:54:35 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+15:54:35 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+15:54:35 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:22 PST: 
+
+________
+10:40:22 PST: 2015-12-02
+10:40:22 PST:  ------- Starting OpenCPN -------
+10:40:22 PST: Version 4.1.1108 Build 2015-111-08
+10:40:22 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+10:40:22 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+10:40:22 PST: SData_Locn is /opt/opencpn/share/opencpn/
+10:40:22 PST: PrivateDataDir is /home/ecotrust/.opencpn
+10:40:22 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+10:40:22 PST: Setting Viewpoint Lat/Lon 54.308, -130.313
+10:40:22 PST: Setting Ownship Lat/Lon 54.314, -130.323
+10:40:22 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+10:40:22 PST: No styles found at: /home/ecotrust/
+10:40:22 PST: No styles found at: /home/ecotrust/.opencpn/
+10:40:22 PST: Detected display size (horizontal): 338 mm
+10:40:22 PST: System default Language:  en_US
+10:40:22 PST: Opencpn language set to:  en_US
+10:40:22 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+10:40:22 PST: Creating glChartCanvas
+10:40:22 PST: ChartDB Cache policy:  Application target is 482 MBytes
+10:40:22 PST:    Warning: found incorrect chart db version: V017
+10:40:22 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+10:40:22 PST: Chartdb: Chart directory list follows
+10:40:22 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+10:40:22 PST:   Chart directory #1: /home/ecotrust/charts
+10:40:22 PST: GPS Watchdog Timeout is: 6 sec.
+10:40:22 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+10:40:23 PST: Warning: Color not found CHDRD
+10:40:23 PST: OpenCPN Initialized in 1340 ms.
+10:40:24 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+10:40:24 PST: Loading navobjects from navobj.xml
+10:40:25 PST: Done loading navobjects
+10:40:25 PST: Applying NavObjChanges
+10:40:25 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+10:40:26 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+10:40:27 PST:    ***GPS Watchdog timeout at Lat:54.314   Lon: -130.323
+10:40:28 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:28 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:28 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:28 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:28 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:29 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:34 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+10:40:35 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+10:40:36 PST: 
+
+________
+10:40:36 PST: 2015-12-02
+10:40:36 PST:  ------- Starting OpenCPN -------
+10:40:36 PST: Version 4.1.1108 Build 2015-111-08
+10:40:36 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+10:40:36 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+10:40:36 PST: SData_Locn is /opt/opencpn/share/opencpn/
+10:40:36 PST: PrivateDataDir is /home/ecotrust/.opencpn
+10:40:36 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+10:40:36 PST: Setting Viewpoint Lat/Lon 54.308, -130.313
+10:40:36 PST: Setting Ownship Lat/Lon 54.314, -130.323
+10:40:36 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+10:40:36 PST: No styles found at: /home/ecotrust/
+10:40:36 PST: No styles found at: /home/ecotrust/.opencpn/
+10:40:36 PST: Detected display size (horizontal): 338 mm
+10:40:36 PST: System default Language:  en_US
+10:40:36 PST: Opencpn language set to:  en_US
+10:40:36 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+10:40:36 PST: Creating glChartCanvas
+10:40:37 PST: ChartDB Cache policy:  Application target is 482 MBytes
+10:40:37 PST:    Warning: found incorrect chart db version: V017
+10:40:37 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+10:40:37 PST: Chartdb: Chart directory list follows
+10:40:37 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+10:40:37 PST:   Chart directory #1: /home/ecotrust/charts
+10:40:37 PST: GPS Watchdog Timeout is: 6 sec.
+10:40:37 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+10:40:37 PST: Warning: Color not found CHDRD
+10:40:37 PST: OpenCPN Initialized in 1283 ms.
+10:40:38 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+10:40:38 PST: Loading navobjects from navobj.xml
+10:40:40 PST: Done loading navobjects
+10:40:40 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+10:40:40 PST:    ***GPS Watchdog timeout at Lat:54.314   Lon: -130.323
+10:40:40 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+10:40:41 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:41 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:41 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:41 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:41 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+10:40:41 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+10:52:39 PST: 
+
+________
+10:52:39 PST: 2015-12-02
+10:52:39 PST:  ------- Starting OpenCPN -------
+10:52:39 PST: Version 4.1.1108 Build 2015-111-08
+10:52:39 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+10:52:39 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+10:52:39 PST: SData_Locn is /opt/opencpn/share/opencpn/
+10:52:39 PST: PrivateDataDir is /home/ecotrust/.opencpn
+10:52:39 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+10:52:39 PST: Setting Viewpoint Lat/Lon 54.308, -130.313
+10:52:39 PST: Setting Ownship Lat/Lon 54.314, -130.323
+10:52:39 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+10:52:39 PST: No styles found at: /home/ecotrust/
+10:52:39 PST: No styles found at: /home/ecotrust/.opencpn/
+10:52:40 PST: Detected display size (horizontal): 338 mm
+10:52:40 PST: System default Language:  en_US
+10:52:40 PST: Opencpn language set to:  en_US
+10:52:40 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+10:52:40 PST: Creating glChartCanvas
+10:52:40 PST: ChartDB Cache policy:  Application target is 482 MBytes
+10:52:40 PST:    Warning: found incorrect chart db version: V017
+10:52:40 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+10:52:40 PST: Chartdb: Chart directory list follows
+10:52:40 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+10:52:40 PST:   Chart directory #1: /home/ecotrust/charts
+10:52:40 PST: GPS Watchdog Timeout is: 6 sec.
+10:52:40 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+10:52:41 PST: Warning: Color not found CHDRD
+10:52:41 PST: OpenCPN Initialized in 1318 ms.
+10:52:41 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+10:52:41 PST: Loading navobjects from navobj.xml
+10:52:42 PST: Done loading navobjects
+10:52:42 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+10:52:44 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+10:52:45 PST:    ***GPS Watchdog timeout at Lat:54.314   Lon: -130.323
+10:52:45 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+10:52:45 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+10:52:45 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+10:52:45 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+10:52:46 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+10:52:46 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+11:23:17 PST: LOGBOOK:  2015-12-02 19:23:17 UTC  GPS Lat   54.31388 Lon -130.32277 COG  100.30000 SOG   0.24 kts
+14:09:38 PST: LOGBOOK:  2015-12-02 22:09:38 UTC  GPS Lat   54.31397 Lon -130.32278 COG    0.00000 SOG   0.04 kts
+14:10:01 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+14:16:18 PST: opencpn::MyFrame exiting cleanly.
+14:16:18 PST: Chart cache PlugIn purge
+14:16:18 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+14:16:18 PST: Chart cache purge
+14:16:18 PST: opencpn::MyApp starting exit.
+14:16:18 PST: LOGBOOK:  2015-12-02 22:16:18 UTC OFF: Lat   54.31365 Lon -130.32288 COG    0.00000 SOG   0.25 kts
+14:16:18 PST: opencpn::MyApp exiting cleanly...
+14:16:18 PST: 
+
+________
+14:16:18 PST: 2015-12-02
+14:16:18 PST:  ------- Starting OpenCPN -------
+14:16:18 PST: Version 4.1.1108 Build 2015-111-08
+14:16:18 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+14:16:18 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+14:16:18 PST: SData_Locn is /opt/opencpn/share/opencpn/
+14:16:18 PST: PrivateDataDir is /home/ecotrust/.opencpn
+14:16:18 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+14:16:18 PST: Setting Viewpoint Lat/Lon 54.3182, -130.33
+14:16:18 PST: Setting Ownship Lat/Lon 54.3137, -130.323
+14:16:18 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+14:16:18 PST: No styles found at: /home/ecotrust/
+14:16:18 PST: No styles found at: /home/ecotrust/.opencpn/
+14:16:18 PST: Detected display size (horizontal): 338 mm
+14:16:18 PST: System default Language:  en_US
+14:16:18 PST: Opencpn language set to:  en_US
+14:16:19 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+14:16:19 PST: Creating glChartCanvas
+14:16:19 PST: ChartDB Cache policy:  Application target is 482 MBytes
+14:16:19 PST:    Warning: found incorrect chart db version: V017
+14:16:19 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+14:16:19 PST: Chartdb: Chart directory list follows
+14:16:19 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+14:16:19 PST:   Chart directory #1: /home/ecotrust/charts
+14:16:19 PST: GPS Watchdog Timeout is: 6 sec.
+14:16:19 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+14:16:19 PST: Warning: Color not found CHDRD
+14:16:20 PST: OpenCPN Initialized in 1251 ms.
+14:16:20 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+14:16:20 PST: Loading navobjects from navobj.xml
+14:16:21 PST: Done loading navobjects
+14:16:21 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+14:16:22 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+14:16:23 PST:    ***GPS Watchdog timeout at Lat:54.3137   Lon: -130.323
+14:16:24 PST: Changing NMEA Datasource for GPGSV to GPSD:127.0.0.1:2947 (Priority: 0)
+14:16:24 PST: Changing NMEA Datasource for GPRMC to GPSD:127.0.0.1:2947 (Priority: 0)
+14:16:24 PST: Changing NMEA Datasource for GPGGA to GPSD:127.0.0.1:2947 (Priority: 0)
+14:16:24 PST: Changing NMEA Datasource for GPVTG to GPSD:127.0.0.1:2947 (Priority: 0)
+14:16:24 PST: Changing NMEA Datasource for PGRME to GPSD:127.0.0.1:2947 (Priority: 0)
+14:16:25 PST: Changing NMEA Datasource for GPGSA to GPSD:127.0.0.1:2947 (Priority: 0)
+14:16:52 PST: Initializing Chart /home/ecotrust/charts/380201.KAP
+14:16:54 PST: Initializing Chart /home/ecotrust/charts/389201.KAP
+14:17:19 PST: LOGBOOK:  2015-12-02 22:17:19 UTC  GPS Lat   54.31350 Lon -130.32276 COG  342.00000 SOG   1.64 kts
+14:30:00 PST: LOGBOOK:  2015-12-02 22:30:00 UTC  GPS Lat   54.31378 Lon -130.32282 COG    0.00000 SOG   0.07 kts
+15:00:00 PST: LOGBOOK:  2015-12-02 23:00:00 UTC  GPS Lat   54.31387 Lon -130.32279 COG   70.90000 SOG   0.33 kts
+15:10:29 PST: Loading Tide/Current data source: /usr/share/opencpn/tcdata/HARMONIC.IDX
+15:25:31 PST: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+15:25:31 PST: Loading World Chart Q=0 in 0 ms.
+15:25:31 PST: GSHHS World chart files have wrong version. Found 2690944160, expected 210-220.
+15:25:31 PST: Loading World Chart Q=0 in 0 ms.
+15:30:00 PST: LOGBOOK:  2015-12-02 23:30:00 UTC  GPS Lat   54.31403 Lon -130.32234 COG    0.00000 SOG   0.10 kts
+15:55:31 PST: Loading World Chart Q=0 in 0 ms.
+16:00:00 PST: LOGBOOK:  2015-12-03 00:00:00 UTC  GPS Lat   54.31387 Lon -130.32289 COG    0.00000 SOG   0.04 kts
+16:30:00 PST: LOGBOOK:  2015-12-03 00:30:00 UTC  GPS Lat   54.31363 Lon -130.32255 COG   66.90000 SOG   0.27 kts
+17:00:00 PST: LOGBOOK:  2015-12-03 01:00:00 UTC  GPS Lat   54.31386 Lon -130.32278 COG  315.00000 SOG   0.48 kts
+17:30:00 PST: LOGBOOK:  2015-12-03 01:30:00 UTC  GPS Lat   54.31384 Lon -130.32282 COG  197.70000 SOG   0.38 kts
+12:03:47 PST: LOGBOOK:  2015-12-03 20:03:47 UTC  GPS Lat   54.31384 Lon -130.32281 COG    0.00000 SOG   0.14 kts
+00:22:26 PST: 
+
+________
+00:22:26 PST: 2015-12-04
+00:22:26 PST:  ------- Starting OpenCPN -------
+00:22:26 PST: Version 4.1.1108 Build 2015-111-08
+00:22:26 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+00:22:26 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+00:22:26 PST: SData_Locn is /opt/opencpn/share/opencpn/
+00:22:26 PST: PrivateDataDir is /home/ecotrust/.opencpn
+00:22:26 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+00:22:26 PST: Setting Viewpoint Lat/Lon 54.3182, -130.33
+00:22:26 PST: Setting Ownship Lat/Lon 54.3137, -130.323
+00:22:26 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+00:22:26 PST: No styles found at: /home/ecotrust/
+00:22:26 PST: No styles found at: /home/ecotrust/.opencpn/
+00:22:26 PST: Detected display size (horizontal): 338 mm
+00:22:26 PST: System default Language:  en_US
+00:22:26 PST: Opencpn language set to:  en_US
+00:22:26 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+00:22:26 PST: Creating glChartCanvas
+00:22:26 PST: ChartDB Cache policy:  Application target is 482 MBytes
+00:22:26 PST:    Warning: found incorrect chart db version: V017
+00:22:26 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+00:22:26 PST: Chartdb: Chart directory list follows
+00:22:26 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+00:22:26 PST:   Chart directory #1: /home/ecotrust/charts
+00:22:26 PST: GPS Watchdog Timeout is: 6 sec.
+00:22:26 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+00:22:27 PST: Warning: Color not found CHDRD
+00:22:27 PST: OpenCPN Initialized in 1249 ms.
+00:22:28 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+00:22:28 PST: Loading navobjects from navobj.xml
+00:22:29 PST: Done loading navobjects
+00:22:29 PST: Applying NavObjChanges
+00:22:36 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+00:22:37 PST:    ***GPS Watchdog timeout at Lat:54.3137   Lon: -130.323
+00:22:37 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+00:23:38 PST: LOGBOOK:  2015-12-04 08:23:38 UTC  DR Lat   54.31370 Lon -130.32290
+03:44:14 PST: 
+
+________
+03:44:14 PST: 2015-12-04
+03:44:14 PST:  ------- Starting OpenCPN -------
+03:44:14 PST: Version 4.1.1108 Build 2015-111-08
+03:44:14 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+03:44:14 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+03:44:14 PST: SData_Locn is /opt/opencpn/share/opencpn/
+03:44:14 PST: PrivateDataDir is /home/ecotrust/.opencpn
+03:44:14 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+03:44:14 PST: Setting Viewpoint Lat/Lon 54.3182, -130.33
+03:44:14 PST: Setting Ownship Lat/Lon 54.3137, -130.323
+03:44:14 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+03:44:14 PST: No styles found at: /home/ecotrust/
+03:44:14 PST: No styles found at: /home/ecotrust/.opencpn/
+03:44:14 PST: Detected display size (horizontal): 338 mm
+03:44:14 PST: System default Language:  en_US
+03:44:14 PST: Opencpn language set to:  en_US
+03:44:14 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+03:44:14 PST: Creating glChartCanvas
+03:44:14 PST: ChartDB Cache policy:  Application target is 482 MBytes
+03:44:14 PST:    Warning: found incorrect chart db version: V017
+03:44:14 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+03:44:14 PST: Chartdb: Chart directory list follows
+03:44:14 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+03:44:14 PST:   Chart directory #1: /home/ecotrust/charts
+03:44:14 PST: GPS Watchdog Timeout is: 6 sec.
+03:44:14 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+03:44:15 PST: Warning: Color not found CHDRD
+03:44:15 PST: OpenCPN Initialized in 1029 ms.
+03:44:16 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+03:44:16 PST: Loading navobjects from navobj.xml
+03:44:17 PST: Done loading navobjects
+03:44:17 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+03:44:17 PST:    ***GPS Watchdog timeout at Lat:54.3137   Lon: -130.323
+03:44:17 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+03:44:35 PST: opencpn::MyFrame exiting cleanly.
+03:44:36 PST: Chart cache PlugIn purge
+03:44:36 PST: Closing NMEA Datastream GPSD:127.0.0.1:2947
+03:44:36 PST: Chart cache purge
+03:44:36 PST: opencpn::MyApp starting exit.
+03:44:36 PST: LOGBOOK:  2015-12-04 11:44:36 UTC OFF: Lat   54.31370 Lon -130.32290
+03:44:36 PST: opencpn::MyApp exiting cleanly...
+03:44:36 PST: 
+
+________
+03:44:36 PST: 2015-12-04
+03:44:36 PST:  ------- Starting OpenCPN -------
+03:44:36 PST: Version 4.1.1108 Build 2015-111-08
+03:44:36 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+03:44:36 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+03:44:36 PST: SData_Locn is /opt/opencpn/share/opencpn/
+03:44:36 PST: PrivateDataDir is /home/ecotrust/.opencpn
+03:44:36 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+03:44:36 PST: Setting Viewpoint Lat/Lon 54.3182, -130.33
+03:44:36 PST: Setting Ownship Lat/Lon 54.3137, -130.323
+03:44:36 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+03:44:36 PST: No styles found at: /home/ecotrust/
+03:44:36 PST: No styles found at: /home/ecotrust/.opencpn/
+03:44:36 PST: Detected display size (horizontal): 338 mm
+03:44:36 PST: System default Language:  en_US
+03:44:36 PST: Opencpn language set to:  en_US
+03:44:36 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+03:44:36 PST: Creating glChartCanvas
+03:44:36 PST: ChartDB Cache policy:  Application target is 482 MBytes
+03:44:36 PST:    Warning: found incorrect chart db version: V017
+03:44:36 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+03:44:36 PST: Chartdb: Chart directory list follows
+03:44:36 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+03:44:36 PST:   Chart directory #1: /home/ecotrust/charts
+03:44:36 PST: GPS Watchdog Timeout is: 6 sec.
+03:44:36 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+03:44:37 PST: Warning: Color not found CHDRD
+03:44:37 PST: OpenCPN Initialized in 997 ms.
+03:44:37 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+03:44:37 PST: Loading navobjects from navobj.xml
+03:44:38 PST: Done loading navobjects
+03:44:38 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+04:49:45 PST: 
+
+________
+04:49:45 PST: 2015-12-04
+04:49:45 PST:  ------- Starting OpenCPN -------
+04:49:45 PST: Version 4.1.1108 Build 2015-111-08
+04:49:45 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+04:49:45 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+04:49:45 PST: SData_Locn is /opt/opencpn/share/opencpn/
+04:49:45 PST: PrivateDataDir is /home/ecotrust/.opencpn
+04:49:45 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+04:49:45 PST: Setting Viewpoint Lat/Lon 54.3182, -130.33
+04:49:45 PST: Setting Ownship Lat/Lon 54.3137, -130.323
+04:49:45 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+04:49:45 PST: No styles found at: /home/ecotrust/
+04:49:45 PST: No styles found at: /home/ecotrust/.opencpn/
+04:49:45 PST: Detected display size (horizontal): 338 mm
+04:49:45 PST: System default Language:  en_US
+04:49:45 PST: Opencpn language set to:  en_US
+04:49:45 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+04:49:45 PST: Creating glChartCanvas
+04:49:46 PST: ChartDB Cache policy:  Application target is 482 MBytes
+04:49:46 PST:    Warning: found incorrect chart db version: V017
+04:49:46 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+04:49:46 PST: Chartdb: Chart directory list follows
+04:49:46 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+04:49:46 PST:   Chart directory #1: /home/ecotrust/charts
+04:49:46 PST: GPS Watchdog Timeout is: 6 sec.
+04:49:46 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+04:49:46 PST: Warning: Color not found CHDRD
+04:49:46 PST: OpenCPN Initialized in 1105 ms.
+04:49:47 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+04:49:47 PST: Loading navobjects from navobj.xml
+04:49:48 PST: Done loading navobjects
+04:49:48 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+04:49:48 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+04:49:49 PST:    ***GPS Watchdog timeout at Lat:54.3137   Lon: -130.323
+04:49:53 PST: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+04:49:54 PST: Using s57data in /opt/opencpn/share/opencpn/s57data
+04:49:55 PST: 
+
+________
+04:49:55 PST: 2015-12-04
+04:49:55 PST:  ------- Starting OpenCPN -------
+04:49:55 PST: Version 4.1.1108 Build 2015-111-08
+04:49:55 PST: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+04:49:55 PST: MemoryStatus:  mem_total: 981 mb,  mem_initial: 16 mb
+04:49:55 PST: SData_Locn is /opt/opencpn/share/opencpn/
+04:49:55 PST: PrivateDataDir is /home/ecotrust/.opencpn
+04:49:55 PST: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+04:49:55 PST: Setting Viewpoint Lat/Lon 54.3182, -130.33
+04:49:55 PST: Setting Ownship Lat/Lon 54.3137, -130.323
+04:49:55 PST: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+04:49:55 PST: No styles found at: /home/ecotrust/
+04:49:55 PST: No styles found at: /home/ecotrust/.opencpn/
+04:49:55 PST: Detected display size (horizontal): 338 mm
+04:49:55 PST: System default Language:  en_US
+04:49:55 PST: Opencpn language set to:  en_US
+04:49:55 PST: Creating MyFrame...size(896, 716)  position(0, 0)
+04:49:55 PST: Creating glChartCanvas
+04:49:55 PST: ChartDB Cache policy:  Application target is 482 MBytes
+04:49:55 PST:    Warning: found incorrect chart db version: V017
+04:49:55 PST:    Scheduling db upgrade to current db version on Options->Charts page visit...
+04:49:55 PST: Chartdb: Chart directory list follows
+04:49:55 PST:   Chart directory #0: /home/ecotrust/Bsbchart
+04:49:55 PST:   Chart directory #1: /home/ecotrust/charts
+04:49:55 PST: GPS Watchdog Timeout is: 6 sec.
+04:49:55 PST: Initializing Chart /home/ecotrust/charts/300201.KAP
+04:49:56 PST: Warning: Color not found CHDRD
+04:49:56 PST: OpenCPN Initialized in 997 ms.
+04:49:56 PST: Looking for UserIcons at /home/ecotrust/.opencpn/UserIcons
+04:49:56 PST: Loading navobjects from navobj.xml
+04:49:57 PST: Done loading navobjects
+04:49:57 PST: Opening NMEA Datastream GPSD:127.0.0.1:2947
+04:49:58 PST: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+04:50:00 PST:    ***GPS Watchdog timeout at Lat:54.3137   Lon: -130.323

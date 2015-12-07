@@ -1,0 +1,196 @@
+22:59:42 PDT: 
+
+________
+22:59:42 PDT: 2015-07-02
+22:59:42 PDT:  ------- Starting OpenCPN -------
+22:59:42 PDT: Version 4.1.630 Build 2015-06-30
+22:59:42 PDT: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+22:59:42 PDT: MemoryStatus:  mem_total: 7869 mb,  mem_initial: 15 mb
+22:59:42 PDT: SData_Locn is /opt/share/opencpn/
+22:59:42 PDT: PrivateDataDir is /home/ecotrust/.opencpn
+22:59:42 PDT: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+22:59:42 PDT: Setting Viewpoint Lat/Lon 54.5061, -129.691
+22:59:42 PDT: Setting Ownship Lat/Lon 54.3079, -130.33
+22:59:42 PDT: Styles loading from /opt/share/opencpn/uidata/styles.xml
+22:59:42 PDT: No styles found at: /home/ecotrust/
+22:59:42 PDT: No styles found at: /home/ecotrust/.opencpn/
+22:59:42 PDT: Detected display size (horizontal): 1013 mm
+22:59:42 PDT: System default Language:  en_US
+22:59:42 PDT: Opencpn language set to:  en_US
+22:59:46 PDT: Creating glChartCanvas
+22:59:46 PDT: ChartDB Cache policy:  Application target is 1024 MBytes
+22:59:46 PDT:    Warning: found incorrect chart db version: V017
+22:59:46 PDT:    Scheduling db upgrade to current db version on Options->Charts page visit...
+22:59:46 PDT: Chartdb: Chart directory list follows
+22:59:46 PDT:   Chart directory #0: /home/ecotrust/Bsbchart
+22:59:46 PDT: GPS Watchdog Timeout is: 6 sec.
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/16016_1.KAP
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+22:59:46 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+22:59:46 PDT:    Default datum (WGS84) substituted.
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG32.KAP
+22:59:46 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG34_2.KAP
+22:59:47 PDT: Unable to initialize background world map. No GSHHS datafiles found in /opt/share/opencpn/gshhs/
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: GSHHS World chart files have wrong version. Found 0, expected 210-220.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: OpenCPN Initialized in 5087 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading navobjects from navobj.xml
+22:59:47 PDT: Done loading navobjects
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Opening NMEA Datastream GPSD:10.20.40.86:2947
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: PlugInManager searching for PlugIns in location /opt/lib/opencpn
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:47 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:48 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:49 PDT:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+22:59:49 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:50 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:50 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+22:59:51 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:52 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:53 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:54 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:55 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:56 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:57 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:58 PDT: Loading World Chart Q=0 in 0 ms.
+22:59:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:00:00 PDT: LOGBOOK:  2015-07-03 06:00:00 UTC  DR Lat   54.30790 Lon -130.33030
+23:00:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:00:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:00:00 PDT: opencpn::MyFrame exiting cleanly.
+23:00:00 PDT: Chart cache PlugIn purge
+23:00:00 PDT: Closing NMEA Datastream GPSD:10.20.40.86:2947
+23:00:00 PDT: Chart cache purge
+23:00:00 PDT: opencpn::MyApp starting exit.
+23:00:00 PDT: LOGBOOK:  2015-07-03 06:00:00 UTC OFF: Lat   54.30790 Lon -130.33030
+23:00:00 PDT: opencpn::MyApp exiting cleanly...
+23:12:58 PDT: 
+
+________
+23:12:58 PDT: 2015-07-02
+23:12:58 PDT:  ------- Starting OpenCPN -------
+23:12:58 PDT: Version 4.1.630 Build 2015-06-30
+23:12:58 PDT: wxWidgets version: wxWidgets 3.0.2 Linux 64 bit wxGTK
+23:12:58 PDT: MemoryStatus:  mem_total: 7869 mb,  mem_initial: 15 mb
+23:12:58 PDT: SData_Locn is /opt/opencpn/share/opencpn/
+23:12:58 PDT: PrivateDataDir is /home/ecotrust/.opencpn
+23:12:58 PDT: Using existing Config_File: /home/ecotrust/.opencpn/opencpn.conf
+23:12:58 PDT: Setting Viewpoint Lat/Lon 54.5061, -129.691
+23:12:58 PDT: Setting Ownship Lat/Lon 54.3079, -130.33
+23:12:58 PDT: Styles loading from /opt/opencpn/share/opencpn/uidata/styles.xml
+23:12:58 PDT: No styles found at: /home/ecotrust/
+23:12:58 PDT: No styles found at: /home/ecotrust/.opencpn/
+23:12:58 PDT: Detected display size (horizontal): 1013 mm
+23:12:58 PDT: System default Language:  en_US
+23:12:58 PDT: Opencpn language set to:  en_US
+23:12:58 PDT: Creating glChartCanvas
+23:12:59 PDT: ChartDB Cache policy:  Application target is 1024 MBytes
+23:12:59 PDT:    Warning: found incorrect chart db version: V017
+23:12:59 PDT:    Scheduling db upgrade to current db version on Options->Charts page visit...
+23:12:59 PDT: Chartdb: Chart directory list follows
+23:12:59 PDT:   Chart directory #0: /home/ecotrust/Bsbchart
+23:12:59 PDT: GPS Watchdog Timeout is: 6 sec.
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/16016_1.KAP
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+23:12:59 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/CA_CHTS/300001.KAP
+23:12:59 PDT:    Default datum (WGS84) substituted.
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG32.KAP
+23:12:59 PDT: Initializing Chart /home/ecotrust/Bsbchart/REG34_2.KAP
+23:12:59 PDT: Unable to initialize background world map. No GSHHS datafiles found in /opt/opencpn/share/opencpn/gshhs/
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: GSHHS World chart files have wrong version. Found 0, expected 210-220.
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: OpenCPN Initialized in 897 ms.
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: Loading navobjects from navobj.xml
+23:12:59 PDT: Done loading navobjects
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: Opening NMEA Datastream GPSD:10.20.40.86:2947
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:12:59 PDT: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:12:59 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:00 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:01 PDT:    ***GPS Watchdog timeout at Lat:54.3079   Lon: -130.33
+23:13:01 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:02 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:02 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:03 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:04 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:05 PDT: Initializing Chart /home/ecotrust/Bsbchart/CA_CHTS/300201.KAP
+23:13:05 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/CA_CHTS/300201.KAP
+23:13:05 PDT:    Default datum (WGS84) substituted.
+23:13:05 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:05 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:15 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:15 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:15 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:16 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:16 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:17 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:17 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:18 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:19 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:20 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:21 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:22 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:23 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:23 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:24 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:25 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:26 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:27 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:28 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:29 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:30 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:31 PDT: Loading World Chart Q=0 in 0 ms.
+23:13:31 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:39 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:40 PDT: Warning: Color not found CHDRD
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395801.KAP
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395501.KAP
+23:13:42 PDT:    Chart datum {NAD27} invalid on chart /home/ecotrust/Bsbchart/395501.KAP
+23:13:42 PDT:    Default datum (WGS84) substituted.
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395901.KAP
+23:13:42 PDT: Initializing Chart /home/ecotrust/Bsbchart/395701.KAP
+23:13:47 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:55 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:13:59 PDT: LOGBOOK:  2015-07-03 06:13:59 UTC  DR Lat   54.30790 Lon -130.33030
+23:14:03 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:06 PDT: ChartSymbols loaded from /opt/opencpn/share/opencpn/s57data/chartsymbols.xml
+23:14:06 PDT: Using s57data in /opt/opencpn/share/opencpn/s57data
+23:14:07 PDT: Detected display size (horizontal): 1013 mm
+23:14:11 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:19 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:25 PDT: PlugInManager searching for PlugIns in location /opt/opencpn/lib/opencpn
+23:14:25 PDT: PlugInManager: Loading PlugIn: /opt/opencpn/lib/opencpn/libgrib_pi.so
+23:14:25 PDT:   /opt/opencpn/lib/opencpn/libgrib_pi.so
+              API Version detected: 112
+              PlugIn Version detected: 203
+23:14:25 PDT: PlugInManager: Loading PlugIn: /opt/opencpn/lib/opencpn/libdashboard_pi.so
+23:14:25 PDT:   /opt/opencpn/lib/opencpn/libdashboard_pi.so
+              API Version detected: 106
+              PlugIn Version detected: 102
+23:14:27 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:35 PDT: Datastream connection lost: GPSD:10.20.40.86:2947
+23:14:41 PDT: opencpn::MyFrame exiting cleanly.
+23:14:41 PDT: Chart cache PlugIn purge
+23:14:41 PDT: PlugInManager: UnLoading PlugIn: /opt/opencpn/lib/opencpn/libgrib_pi.so
+23:14:41 PDT: PlugInManager: UnLoading PlugIn: /opt/opencpn/lib/opencpn/libdashboard_pi.so
+23:14:41 PDT: Closing NMEA Datastream GPSD:10.20.40.86:2947
+23:14:41 PDT: Chart cache purge
+23:14:41 PDT: opencpn::MyApp starting exit.
+23:14:41 PDT: LOGBOOK:  2015-07-03 06:14:41 UTC OFF: Lat   54.30790 Lon -130.33030
+23:14:41 PDT: opencpn::MyApp exiting cleanly...
