@@ -8,6 +8,7 @@ After=em-rec.service
 ExecStart=/usr/bin/node /opt/em/server.js
 Environment=PATH=/bin:/sbin:/usr/bin:/usr/sbin
 Environment=NODE_ENV=production
+Environment=DISPLAY=:0
 Nice=-2
 KillMode=process
 Restart=always
